@@ -1,4 +1,5 @@
 # Replication Materials for: Variational Machine Learning Model for Electronic Structure Optimization via the Density Matrix
+![Model Architecture](figures/Fig1without_tag.svg)
 
 This repository contains the reference implementation and reproduction scripts for the paper:
 
