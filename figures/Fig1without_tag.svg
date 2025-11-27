@@ -1,0 +1,3557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2182 1158">
+  <!-- Generator: Adobe Illustrator 29.6.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 207)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#_未命名的渐变_1851);
+      }
+
+      .st1 {
+        clip-path: url(#clippath-51);
+      }
+
+      .st2 {
+        fill: url(#_未命名的渐变_18128);
+      }
+
+      .st3 {
+        fill: url(#_未命名的渐变_1870);
+      }
+
+      .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23 {
+        stroke: #000;
+      }
+
+      .st4, .st6, .st8, .st12, .st14, .st15, .st16, .st17, .st18, .st19, .st21, .st22 {
+        stroke-miterlimit: 10;
+      }
+
+      .st4, .st24, .st14 {
+        fill: #fbb03b;
+      }
+
+      .st4, .st14, .st16 {
+        stroke-width: 3px;
+      }
+
+      .st25 {
+        clip-path: url(#clippath-34);
+      }
+
+      .st26 {
+        font-family: TimesNewRomanPS-BoldMT, 'Times New Roman';
+        font-size: 28px;
+        font-weight: 700;
+      }
+
+      .st27, .st28 {
+        font-size: 60px;
+      }
+
+      .st29 {
+        fill: url(#_未命名的渐变_1840);
+      }
+
+      .st5 {
+        fill: url(#_未命名的渐变_8);
+      }
+
+      .st5, .st7, .st9, .st30, .st10, .st11, .st31, .st13, .st20, .st32, .st23 {
+        stroke-miterlimit: 60;
+      }
+
+      .st5, .st7, .st9, .st30, .st31, .st12, .st13, .st32 {
+        stroke-width: 2px;
+      }
+
+      .st33 {
+        fill: url(#_未命名的渐变_18108);
+      }
+
+      .st34 {
+        fill: url(#_未命名的渐变_18183);
+      }
+
+      .st35 {
+        clip-path: url(#clippath-38);
+      }
+
+      .st36 {
+        clip-path: url(#clippath-21);
+      }
+
+      .st37 {
+        clip-path: url(#clippath-6);
+      }
+
+      .st38 {
+        clip-path: url(#clippath-7);
+      }
+
+      .st39 {
+        clip-path: url(#clippath-17);
+      }
+
+      .st40 {
+        fill: url(#_未命名的渐变_1841);
+      }
+
+      .st41 {
+        fill: url(#_未命名的渐变_1828);
+      }
+
+      .st42 {
+        fill: url(#_未命名的渐变_18173);
+      }
+
+      .st6, .st43, .st44, .st11, .st45, .st46, .st47, .st48, .st17, .st49, .st18, .st50 {
+        fill: none;
+      }
+
+      .st51 {
+        fill: url(#_未命名的渐变_18161);
+      }
+
+      .st52 {
+        clip-path: url(#clippath-31);
+      }
+
+      .st53 {
+        fill: url(#_未命名的渐变_1814);
+      }
+
+      .st54 {
+        fill: url(#_未命名的渐变_18177);
+      }
+
+      .st55 {
+        fill: #ff931e;
+      }
+
+      .st55, .st24, .st56, .st57, .st14, .st58, .st16, .st59, .st60 {
+        opacity: .5;
+      }
+
+      .st61 {
+        fill: url(#_未命名的渐变_18171);
+      }
+
+      .st62 {
+        fill: url(#_未命名的渐变_18199);
+      }
+
+      .st63 {
+        fill: url(#_未命名的渐变_1875);
+      }
+
+      .st64 {
+        fill: url(#_未命名的渐变_1868);
+      }
+
+      .st65 {
+        fill: #ececec;
+      }
+
+      .st65, .st66, .st67, .st68, .st69, .st70, .st71, .st72 {
+        fill-rule: evenodd;
+      }
+
+      .st73 {
+        clip-path: url(#clippath-15);
+      }
+
+      .st74 {
+        clip-path: url(#clippath-33);
+      }
+
+      .st75 {
+        fill: url(#_未命名的渐变_18156);
+      }
+
+      .st76 {
+        clip-path: url(#clippath-61);
+      }
+
+      .st43 {
+        stroke: #7b8553;
+        stroke-width: .9px;
+      }
+
+      .st43, .st44, .st30, .st31, .st47, .st15, .st17, .st49, .st32 {
+        stroke-linecap: round;
+      }
+
+      .st43, .st44, .st47, .st49 {
+        stroke-linejoin: round;
+      }
+
+      .st77 {
+        fill: url(#_未命名的渐变_181);
+      }
+
+      .st78 {
+        fill: url(#_未命名的渐变_189);
+      }
+
+      .st66 {
+        fill: #f2f2f2;
+      }
+
+      .st79 {
+        fill: url(#_未命名的渐变_1850);
+      }
+
+      .st80 {
+        fill: url(#_未命名的渐变_18148);
+      }
+
+      .st81 {
+        clip-path: url(#clippath-18);
+      }
+
+      .st82 {
+        clip-path: url(#clippath-47);
+      }
+
+      .st83 {
+        clip-path: url(#clippath-4);
+      }
+
+      .st84 {
+        clip-path: url(#clippath-71);
+      }
+
+      .st85 {
+        font-size: 36px;
+      }
+
+      .st85, .st86, .st87, .st28, .st88, .st89, .st90 {
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+      }
+
+      .st67 {
+        fill: url(#Unnamed_Pattern_5);
+      }
+
+      .st91 {
+        clip-path: url(#clippath-22);
+      }
+
+      .st92 {
+        fill: url(#_未命名的渐变_18189);
+      }
+
+      .st86 {
+        font-size: 40px;
+      }
+
+      .st93 {
+        clip-path: url(#clippath-23);
+      }
+
+      .st94 {
+        fill: url(#_未命名的渐变_18163);
+      }
+
+      .st95 {
+        fill: url(#_未命名的渐变_1822);
+      }
+
+      .st96 {
+        fill: url(#_未命名的渐变_18170);
+      }
+
+      .st97 {
+        fill: url(#_未命名的渐变_187);
+      }
+
+      .st98 {
+        fill: url(#_未命名的渐变_18154);
+      }
+
+      .st99 {
+        fill: url(#_未命名的渐变_18135);
+      }
+
+      .st100 {
+        fill: url(#_未命名的渐变_18159);
+      }
+
+      .st101 {
+        fill: url(#_未命名的渐变_18139);
+      }
+
+      .st102 {
+        fill: url(#_未命名的渐变_18124);
+      }
+
+      .st7, .st103, .st10, .st69, .st12, .st20 {
+        fill: #fff;
+      }
+
+      .st104 {
+        fill: url(#_未命名的渐变_18209);
+      }
+
+      .st105 {
+        fill: url(#_未命名的渐变_18138);
+      }
+
+      .st8, .st58 {
+        fill: #f15a24;
+      }
+
+      .st8, .st19, .st21, .st22 {
+        stroke-width: .5px;
+      }
+
+      .st106 {
+        fill: url(#_未命名的渐变_1872);
+      }
+
+      .st107 {
+        fill: url(#_未命名的渐变_1871);
+      }
+
+      .st44 {
+        stroke-width: 1.2px;
+      }
+
+      .st44, .st47, .st49 {
+        stroke: #83982b;
+      }
+
+      .st108 {
+        clip-path: url(#clippath-54);
+      }
+
+      .st109 {
+        clip-path: url(#clippath-66);
+      }
+
+      .st68, .st110, .st111 {
+        fill: url(#_未命名的渐变_10);
+      }
+
+      .st112 {
+        fill: url(#_未命名的渐变_18112);
+      }
+
+      .st113 {
+        fill: url(#_未命名的渐变_182);
+      }
+
+      .st114 {
+        fill: url(#_未命名的渐变_1869);
+      }
+
+      .st115 {
+        fill: url(#_未命名的渐变_18160);
+      }
+
+      .st116 {
+        fill: url(#_未命名的渐变_1833);
+      }
+
+      .st117 {
+        fill: url(#_未命名的渐变_18125);
+      }
+
+      .st118 {
+        fill: url(#_未命名的渐变_18142);
+      }
+
+      .st119 {
+        fill: url(#_未命名的渐变_18145);
+      }
+
+      .st120 {
+        fill: url(#_未命名的渐变_18116);
+      }
+
+      .st121 {
+        fill: url(#_未命名的渐变_18166);
+      }
+
+      .st122 {
+        clip-path: url(#clippath-9);
+      }
+
+      .st123 {
+        fill: url(#_未命名的渐变_18109);
+      }
+
+      .st124 {
+        fill: url(#_未命名的渐变_18164);
+      }
+
+      .st125 {
+        fill: url(#_未命名的渐变_18174);
+      }
+
+      .st126 {
+        clip-path: url(#clippath-70);
+      }
+
+      .st127 {
+        clip-path: url(#clippath-10);
+      }
+
+      .st128 {
+        clip-path: url(#clippath-42);
+      }
+
+      .st129 {
+        fill: url(#_未命名的渐变_1882);
+      }
+
+      .st130 {
+        fill: url(#_未命名的渐变_18150);
+      }
+
+      .st131 {
+        clip-path: url(#clippath-59);
+      }
+
+      .st132 {
+        fill: url(#_未命名的渐变_18181);
+      }
+
+      .st133 {
+        fill: url(#_未命名的渐变_18144);
+      }
+
+      .st134 {
+        fill: url(#_未命名的渐变_1858);
+      }
+
+      .st135 {
+        clip-path: url(#clippath-43);
+      }
+
+      .st136 {
+        clip-path: url(#clippath-64);
+      }
+
+      .st137 {
+        fill: url(#_未命名的渐变_18115);
+      }
+
+      .st138 {
+        fill: url(#_未命名的渐变_18169);
+      }
+
+      .st139 {
+        fill: url(#_未命名的渐变_1815);
+      }
+
+      .st140 {
+        clip-path: url(#clippath-25);
+      }
+
+      .st141 {
+        fill: url(#_未命名的渐变_1819);
+      }
+
+      .st142 {
+        fill: url(#_未命名的渐变_1897);
+      }
+
+      .st143 {
+        fill: url(#_未命名的渐变_18214);
+      }
+
+      .st9 {
+        fill: url(#_未命名的渐变_61);
+      }
+
+      .st30 {
+        fill: url(#_未命名的渐变_7);
+      }
+
+      .st30, .st31, .st32 {
+        stroke: #231815;
+      }
+
+      .st144 {
+        clip-path: url(#clippath-27);
+      }
+
+      .st10 {
+        stroke-dasharray: 6;
+      }
+
+      .st10, .st50, .st23 {
+        stroke-width: 6px;
+      }
+
+      .st45, .st110, .st145, .st50 {
+        stroke: #325395;
+        stroke-miterlimit: 8;
+      }
+
+      .st146 {
+        fill: url(#_未命名的渐变_184);
+      }
+
+      .st147 {
+        fill: url(#_未命名的渐变_18134);
+      }
+
+      .st148 {
+        clip-path: url(#clippath-60);
+      }
+
+      .st149 {
+        fill: url(#_未命名的渐变_18130);
+      }
+
+      .st150 {
+        fill: url(#_未命名的渐变_18185);
+      }
+
+      .st151 {
+        fill: url(#_未命名的渐变_1843);
+      }
+
+      .st152 {
+        fill: url(#_未命名的渐变_1812);
+      }
+
+      .st153 {
+        fill: url(#_未命名的渐变_18206);
+      }
+
+      .st154 {
+        clip-path: url(#clippath-11);
+      }
+
+      .st155 {
+        clip-path: url(#clippath-57);
+      }
+
+      .st156 {
+        fill: url(#_未命名的渐变_1826);
+      }
+
+      .st157 {
+        fill: url(#_未命名的渐变_1848);
+      }
+
+      .st158 {
+        fill: url(#_未命名的渐变_18110);
+      }
+
+      .st159 {
+        fill: url(#_未命名的渐变_1864);
+      }
+
+      .st160 {
+        fill: url(#_未命名的渐变_18149);
+      }
+
+      .st70, .st161, .st145 {
+        fill: #c1272d;
+      }
+
+      .st162 {
+        clip-path: url(#clippath-36);
+      }
+
+      .st163 {
+        fill: url(#_未命名的渐变_1829);
+      }
+
+      .st164 {
+        fill: url(#_未命名的渐变_1813);
+      }
+
+      .st165 {
+        fill: url(#_未命名的渐变_1839);
+      }
+
+      .st166 {
+        clip-path: url(#clippath-35);
+      }
+
+      .st167 {
+        clip-path: url(#clippath-48);
+      }
+
+      .st168 {
+        fill: url(#_未命名的渐变_1853);
+      }
+
+      .st169 {
+        fill: url(#_未命名的渐变_18167);
+      }
+
+      .st170 {
+        clip-path: url(#clippath-28);
+      }
+
+      .st171 {
+        fill: url(#_未命名的渐变_18146);
+      }
+
+      .st172 {
+        fill: url(#_未命名的渐变_18131);
+      }
+
+      .st173 {
+        fill: url(#_未命名的渐变_18132);
+      }
+
+      .st31 {
+        fill: url(#_未命名的渐变_31);
+      }
+
+      .st174 {
+        fill: url(#_未命名的渐变_1888);
+      }
+
+      .st175 {
+        fill: url(#_未命名的渐变_18208);
+      }
+
+      .st176 {
+        fill: url(#_未命名的渐变_1846);
+      }
+
+      .st177 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st178 {
+        clip-path: url(#clippath-56);
+      }
+
+      .st179 {
+        fill: url(#_未命名的渐变_1887);
+      }
+
+      .st180 {
+        fill: url(#_未命名的渐变_186);
+      }
+
+      .st181 {
+        fill: url(#_未命名的渐变_18136);
+      }
+
+      .st182 {
+        fill: url(#_未命名的渐变_1894);
+      }
+
+      .st183 {
+        fill: url(#_未命名的渐变_1810);
+      }
+
+      .st184 {
+        fill: url(#_未命名的渐变_1837);
+      }
+
+      .st47 {
+        stroke-width: 1.2px;
+      }
+
+      .st185 {
+        fill: url(#_未命名的渐变_15);
+      }
+
+      .st186 {
+        fill: url(#_未命名的渐变_18101);
+      }
+
+      .st187 {
+        fill: url(#_未命名的渐变_18168);
+      }
+
+      .st188 {
+        fill: url(#_未命名的渐变_185);
+      }
+
+      .st189 {
+        fill: url(#_未命名的渐变_18157);
+      }
+
+      .st190 {
+        clip-path: url(#clippath-45);
+      }
+
+      .st191 {
+        fill: url(#_未命名的渐变_1816);
+      }
+
+      .st192 {
+        clip-path: url(#clippath-46);
+      }
+
+      .st193 {
+        clip-path: url(#clippath-40);
+      }
+
+      .st194 {
+        fill: url(#_未命名的渐变_18152);
+      }
+
+      .st195 {
+        clip-path: url(#clippath-5);
+      }
+
+      .st196 {
+        clip-path: url(#clippath-20);
+      }
+
+      .st197 {
+        fill: url(#_未命名的渐变_18103);
+      }
+
+      .st198 {
+        fill: url(#_未命名的渐变_1877);
+      }
+
+      .st199 {
+        fill: url(#_未命名的渐变_1880);
+      }
+
+      .st200 {
+        fill: url(#_未命名的渐变_1893);
+      }
+
+      .st201 {
+        clip-path: url(#clippath-8);
+      }
+
+      .st202 {
+        fill: url(#_未命名的渐变_18153);
+      }
+
+      .st203 {
+        fill: url(#_未命名的渐变_18211);
+      }
+
+      .st204 {
+        fill: url(#_未命名的渐变_1847);
+      }
+
+      .st205 {
+        fill: url(#_未命名的渐变_18191);
+      }
+
+      .st110, .st145 {
+        stroke-width: .2px;
+      }
+
+      .st206 {
+        fill: url(#_未命名的渐变_1865);
+      }
+
+      .st207 {
+        clip-path: url(#clippath-52);
+      }
+
+      .st208 {
+        fill: url(#_未命名的渐变_188);
+      }
+
+      .st209 {
+        clip-path: url(#clippath-41);
+      }
+
+      .st210 {
+        fill: url(#_未命名的渐变_1878);
+      }
+
+      .st211 {
+        fill: url(#_未命名的渐变_18192);
+      }
+
+      .st212 {
+        clip-path: url(#clippath-67);
+      }
+
+      .st213 {
+        fill: url(#_未命名的渐变_1838);
+      }
+
+      .st214 {
+        fill: url(#_未命名的渐变_18203);
+      }
+
+      .st13 {
+        fill: url(#_未命名的渐变_6);
+      }
+
+      .st215 {
+        fill: url(#_未命名的渐变_18179);
+      }
+
+      .st216 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st217 {
+        fill: url(#_未命名的渐变_1881);
+      }
+
+      .st218 {
+        fill: url(#_未命名的渐变_1832);
+      }
+
+      .st219 {
+        fill: url(#_未命名的渐变_1859);
+      }
+
+      .st56 {
+        fill: #8cc63f;
+      }
+
+      .st57 {
+        fill: #cabced;
+      }
+
+      .st220 {
+        clip-path: url(#clippath-26);
+      }
+
+      .st221 {
+        fill: url(#_未命名的渐变_1834);
+      }
+
+      .st222 {
+        fill: url(#_未命名的渐变_18100);
+      }
+
+      .st223 {
+        fill: url(#_未命名的渐变_1856);
+      }
+
+      .st224 {
+        fill: url(#_未命名的渐变_1817);
+      }
+
+      .st225 {
+        fill: url(#_未命名的渐变_1866);
+      }
+
+      .st226, .st89 {
+        font-size: 48px;
+      }
+
+      .st227 {
+        clip-path: url(#clippath-12);
+      }
+
+      .st228 {
+        clip-path: url(#clippath-50);
+      }
+
+      .st229 {
+        fill: url(#_未命名的渐变_1823);
+      }
+
+      .st230 {
+        fill: url(#_未命名的渐变_18212);
+      }
+
+      .st231 {
+        fill: url(#_未命名的渐变_18117);
+      }
+
+      .st232 {
+        fill: url(#_未命名的渐变_1892);
+      }
+
+      .st233 {
+        clip-path: url(#clippath-14);
+      }
+
+      .st234 {
+        fill: url(#_未命名的渐变_1861);
+      }
+
+      .st48, .st111, .st161 {
+        clip-rule: evenodd;
+      }
+
+      .st87 {
+        font-size: 42px;
+      }
+
+      .st235 {
+        fill: url(#_未命名的渐变_1827);
+      }
+
+      .st236 {
+        fill: url(#_未命名的渐变_18118);
+      }
+
+      .st237 {
+        fill: url(#_未命名的渐变_18105);
+      }
+
+      .st15 {
+        fill: #ff0;
+      }
+
+      .st238 {
+        fill: url(#_未命名的渐变_18213);
+      }
+
+      .st239 {
+        fill: url(#_未命名的渐变_18162);
+      }
+
+      .st240 {
+        fill: url(#_未命名的渐变_18151);
+      }
+
+      .st16 {
+        fill: #39b54a;
+      }
+
+      .st241 {
+        clip-path: url(#clippath-30);
+      }
+
+      .st242 {
+        clip-path: url(#clippath-19);
+      }
+
+      .st243 {
+        fill: url(#_未命名的渐变_18113);
+      }
+
+      .st244 {
+        fill: url(#_未命名的渐变_18182);
+      }
+
+      .st59 {
+        fill: #f7931e;
+      }
+
+      .st245 {
+        fill: url(#_未命名的渐变_18190);
+      }
+
+      .st246 {
+        fill: url(#_未命名的渐变_1811);
+      }
+
+      .st247 {
+        fill: url(#_未命名的渐变_18119);
+      }
+
+      .st248 {
+        fill: url(#_未命名的渐变_1835);
+      }
+
+      .st49 {
+        stroke-width: 1.2px;
+      }
+
+      .st249 {
+        fill: url(#_未命名的渐变_18215);
+      }
+
+      .st250 {
+        fill: url(#_未命名的渐变_1836);
+      }
+
+      .st251 {
+        clip-path: url(#clippath-72);
+      }
+
+      .st252 {
+        fill: url(#_未命名的渐变_18193);
+      }
+
+      .st18 {
+        stroke-width: 4px;
+      }
+
+      .st253 {
+        clip-path: url(#clippath-32);
+      }
+
+      .st71 {
+        fill: #eaf1cd;
+      }
+
+      .st254 {
+        fill: url(#_未命名的渐变_1891);
+      }
+
+      .st255 {
+        fill: url(#_未命名的渐变_1884);
+      }
+
+      .st256 {
+        fill: url(#_未命名的渐变_1886);
+      }
+
+      .st257 {
+        fill: url(#_未命名的渐变_1830);
+      }
+
+      .st258 {
+        fill: url(#_未命名的渐变_18102);
+      }
+
+      .st259 {
+        fill: url(#_未命名的渐变_18122);
+      }
+
+      .st260 {
+        fill: url(#_未命名的渐变_1899);
+      }
+
+      .st261 {
+        clip-path: url(#clippath-55);
+      }
+
+      .st262 {
+        fill: url(#_未命名的渐变_1845);
+      }
+
+      .st263 {
+        fill: url(#_未命名的渐变_1831);
+      }
+
+      .st264 {
+        fill: url(#_未命名的渐变_18188);
+      }
+
+      .st265 {
+        fill: url(#_未命名的渐变_1898);
+      }
+
+      .st19 {
+        fill: #29abe2;
+      }
+
+      .st266 {
+        fill: url(#_未命名的渐变_1818);
+      }
+
+      .st88 {
+        font-size: 35px;
+      }
+
+      .st267 {
+        fill: url(#_未命名的渐变_18106);
+      }
+
+      .st268 {
+        fill: url(#_未命名的渐变_18200);
+      }
+
+      .st269 {
+        fill: url(#_未命名的渐变_18198);
+      }
+
+      .st270 {
+        fill: url(#_未命名的渐变_1825);
+      }
+
+      .st271 {
+        clip-path: url(#clippath-73);
+      }
+
+      .st60, .st21 {
+        fill: #22b573;
+      }
+
+      .st272 {
+        fill: url(#_未命名的渐变_1862);
+      }
+
+      .st273 {
+        clip-path: url(#clippath-53);
+      }
+
+      .st274 {
+        fill: url(#_未命名的渐变_1876);
+      }
+
+      .st275 {
+        clip-path: url(#clippath-39);
+      }
+
+      .st276 {
+        fill: url(#_未命名的渐变_1860);
+      }
+
+      .st277 {
+        fill: url(#_未命名的渐变_18114);
+      }
+
+      .st278 {
+        fill: url(#_未命名的渐变_1863);
+      }
+
+      .st279 {
+        fill: url(#_未命名的渐变_18197);
+      }
+
+      .st280 {
+        fill: url(#_未命名的渐变_1890);
+      }
+
+      .st281 {
+        fill: url(#_未命名的渐变_1854);
+      }
+
+      .st282 {
+        fill: url(#_未命名的渐变_1885);
+      }
+
+      .st283 {
+        fill: url(#_未命名的渐变_18176);
+      }
+
+      .st284 {
+        fill: url(#_未命名的渐变_18204);
+      }
+
+      .st285 {
+        clip-path: url(#clippath-16);
+      }
+
+      .st286 {
+        fill: url(#_未命名的渐变_18140);
+      }
+
+      .st287 {
+        fill: url(#_未命名的渐变_18143);
+      }
+
+      .st288 {
+        fill: url(#_未命名的渐变_18186);
+      }
+
+      .st289 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st290 {
+        fill: url(#_未命名的渐变_18178);
+      }
+
+      .st291 {
+        fill: url(#_未命名的渐变_18158);
+      }
+
+      .st292 {
+        fill: url(#_未命名的渐变_183);
+      }
+
+      .st293 {
+        fill: url(#_未命名的渐变_18127);
+      }
+
+      .st294 {
+        fill: url(#_未命名的渐变_1874);
+      }
+
+      .st295 {
+        fill: url(#_未命名的渐变_18196);
+      }
+
+      .st296 {
+        clip-path: url(#clippath-29);
+      }
+
+      .st297 {
+        fill: url(#_未命名的渐变_18201);
+      }
+
+      .st298 {
+        fill: url(#_未命名的渐变_18155);
+      }
+
+      .st299 {
+        fill: url(#_未命名的渐变_1873);
+      }
+
+      .st300 {
+        fill: url(#_未命名的渐变_18165);
+      }
+
+      .st301 {
+        fill: url(#_未命名的渐变_1842);
+      }
+
+      .st302 {
+        clip-path: url(#clippath-49);
+      }
+
+      .st303 {
+        clip-path: url(#clippath-37);
+      }
+
+      .st304 {
+        fill: url(#_未命名的渐变_1879);
+      }
+
+      .st305 {
+        clip-path: url(#clippath-58);
+      }
+
+      .st306 {
+        fill: url(#_未命名的渐变_18194);
+      }
+
+      .st307 {
+        fill: url(#_未命名的渐变_18133);
+      }
+
+      .st308 {
+        clip-path: url(#clippath-13);
+      }
+
+      .st309 {
+        fill: url(#_未命名的渐变_18);
+      }
+
+      .st310 {
+        fill: url(#_未命名的渐变_18141);
+      }
+
+      .st311 {
+        fill: url(#_未命名的渐变_1883);
+      }
+
+      .st312 {
+        fill: url(#_未命名的渐变_1855);
+      }
+
+      .st313 {
+        fill: url(#_未命名的渐变_18172);
+      }
+
+      .st314 {
+        fill: url(#_未命名的渐变_18126);
+      }
+
+      .st315 {
+        fill: url(#_未命名的渐变_18104);
+      }
+
+      .st316 {
+        fill: url(#_未命名的渐变_18107);
+      }
+
+      .st317 {
+        fill: url(#_未命名的渐变_18195);
+      }
+
+      .st318 {
+        fill: url(#_未命名的渐变_1852);
+      }
+
+      .st319 {
+        fill: url(#_未命名的渐变_1824);
+      }
+
+      .st320 {
+        fill: url(#_未命名的渐变_18120);
+      }
+
+      .st321 {
+        fill: url(#_未命名的渐变_18180);
+      }
+
+      .st322 {
+        fill: url(#_未命名的渐变_18175);
+      }
+
+      .st323 {
+        fill: url(#_未命名的渐变_18129);
+      }
+
+      .st324 {
+        clip-path: url(#clippath-63);
+      }
+
+      .st325 {
+        clip-path: url(#clippath-24);
+      }
+
+      .st326 {
+        fill: url(#_未命名的渐变_1821);
+      }
+
+      .st32 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st327 {
+        clip-path: url(#clippath);
+      }
+
+      .st328 {
+        fill: url(#_未命名的渐变_18187);
+      }
+
+      .st329 {
+        fill: url(#_未命名的渐变_18184);
+      }
+
+      .st330 {
+        fill: url(#_未命名的渐变_18147);
+      }
+
+      .st331 {
+        fill: url(#_未命名的渐变_18207);
+      }
+
+      .st332 {
+        fill: url(#_未命名的渐变_1889);
+      }
+
+      .st333 {
+        fill: url(#_未命名的渐变_18123);
+      }
+
+      .st334 {
+        fill: url(#_未命名的渐变_18121);
+      }
+
+      .st335 {
+        fill: url(#_未命名的渐变_18137);
+      }
+
+      .st22 {
+        fill: #d9e021;
+      }
+
+      .st336 {
+        fill: url(#_未命名的渐变_1895);
+      }
+
+      .st337 {
+        fill: url(#_未命名的渐变_18111);
+      }
+
+      .st338 {
+        fill: url(#_未命名的渐变_1896);
+      }
+
+      .st23 {
+        fill: #662d91;
+        opacity: .2;
+        stroke-opacity: .2;
+      }
+
+      .st339 {
+        clip-path: url(#clippath-68);
+      }
+
+      .st340 {
+        fill: url(#_未命名的渐变_1844);
+      }
+
+      .st341 {
+        clip-path: url(#clippath-65);
+      }
+
+      .st342 {
+        fill: url(#_未命名的渐变_1820);
+      }
+
+      .st72 {
+        fill: #f5b7bf;
+      }
+
+      .st343 {
+        fill: url(#_未命名的渐变_1857);
+      }
+
+      .st344 {
+        clip-path: url(#clippath-44);
+      }
+
+      .st345 {
+        fill: url(#_未命名的渐变_18202);
+      }
+
+      .st346 {
+        fill: url(#_未命名的渐变_1849);
+      }
+
+      .st347 {
+        fill: url(#_未命名的渐变_18210);
+      }
+
+      .st348 {
+        clip-path: url(#clippath-62);
+      }
+
+      .st349 {
+        clip-path: url(#clippath-69);
+      }
+
+      .st350 {
+        fill: url(#_未命名的渐变_1867);
+      }
+
+      .st351 {
+        fill: url(#_未命名的渐变_18205);
+      }
+    </style>
+    <radialGradient id="_未命名的渐变_15" data-name="未命名的渐变 15" cx="981.1" cy="502.7" fx="981.1" fy="502.7" r="55.8" gradientTransform="translate(168.3 -90.2) scale(.9 1.2)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cce0f4"/>
+      <stop offset="0" stop-color="#c2dcf2"/>
+      <stop offset=".1" stop-color="#a9d2ee"/>
+      <stop offset=".2" stop-color="#7fc2e7"/>
+      <stop offset=".4" stop-color="#46abdd"/>
+      <stop offset=".4" stop-color="#1e9cd7"/>
+      <stop offset=".7" stop-color="#0075be"/>
+      <stop offset="1" stop-color="#005b97"/>
+    </radialGradient>
+    <clipPath id="clippath">
+      <polygon class="st48" points="136.4 768.3 256 768.3 256 742.7 136.4 742.7 136.4 768.3 136.4 768.3"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon class="st48" points="136.4 768.3 256 768.3 256 742.7 136.4 742.7 136.4 768.3 136.4 768.3"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polygon class="st48" points="136.4 768.3 256 768.3 256 742.7 136.4 742.7 136.4 768.3 136.4 768.3"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <polygon class="st48" points="136.4 768.3 256 768.3 256 742.7 136.4 742.7 136.4 768.3 136.4 768.3"/>
+    </clipPath>
+    <linearGradient id="_未命名的渐变_6" data-name="未命名的渐变 6" x1="473.9" y1="938.4" x2="586.6" y2="938.4" gradientTransform="translate(-71 -127.7)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#f7931e"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_3" data-name="未命名的渐变 3" x1="585.7" y1="938" x2="633" y2="938" gradientTransform="translate(747.8 -227.8) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7931e"/>
+      <stop offset="1" stop-color="#f15a24"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_8" data-name="未命名的渐变 8" x1="63.3" y1="825" x2="180.4" y2="825" gradientTransform="translate(-82.7 1561.7) rotate(-135) scale(1 1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#29abe2"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_7" data-name="未命名的渐变 7" x1="183.4" y1="824.9" x2="231" y2="824.9" gradientTransform="translate(-85.4 1559) rotate(-135)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#29abe2"/>
+      <stop offset="1" stop-color="#0071bc"/>
+    </linearGradient>
+    <clipPath id="clippath-4">
+      <rect class="st46" x="1645.8" y="165.9" width="111.5" height="79.1"/>
+    </clipPath>
+    <radialGradient id="_未命名的渐变_18" data-name="未命名的渐变 18" cx="2434.1" cy="-767.4" fx="2434.1" fy="-767.4" r="6" gradientTransform="translate(636 467.3) scale(.4 .4)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dfeff4"/>
+      <stop offset="0" stop-color="#d5ecf1"/>
+      <stop offset=".3" stop-color="#bce5ea"/>
+      <stop offset=".5" stop-color="#93dade"/>
+      <stop offset=".6" stop-color="#78d3d7"/>
+      <stop offset=".9" stop-color="#73b6be"/>
+      <stop offset="1" stop-color="#639197"/>
+    </radialGradient>
+    <radialGradient id="_未命名的渐变_181" data-name="未命名的渐变 18" cx="2475.8" cy="-695.2" fx="2475.8" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_182" data-name="未命名的渐变 18" cx="2475.8" cy="-791.5" fx="2475.8" fy="-791.5" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_183" data-name="未命名的渐变 18" cx="2517.5" fx="2517.5" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_184" data-name="未命名的渐变 18" cy="-719.3" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_185" data-name="未命名的渐变 18" cx="2517.5" cy="-719.3" fx="2517.5" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_186" data-name="未命名的渐变 18" cx="2517.5" fx="2517.5" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_187" data-name="未命名的渐变 18" cx="2559.2" cy="-695.2" fx="2559.2" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_188" data-name="未命名的渐变 18" cx="2559.2" cy="-791.5" fx="2559.2" fy="-791.5" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_189" data-name="未命名的渐变 18" cx="2600.9" fx="2600.9" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1810" data-name="未命名的渐变 18" cx="2517.5" cy="-719.3" fx="2517.5" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1811" data-name="未命名的渐变 18" cx="2600.9" cy="-719.3" fx="2600.9" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1812" data-name="未命名的渐变 18" cx="2600.9" fx="2600.9" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1813" data-name="未命名的渐变 18" cx="2642.5" cy="-695.2" fx="2642.5" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1814" data-name="未命名的渐变 18" cx="2642.5" cy="-791.5" fx="2642.5" fy="-791.5" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1815" data-name="未命名的渐变 18" cx="2684.2" fx="2684.2" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1816" data-name="未命名的渐变 18" cx="2600.9" cy="-719.3" fx="2600.9" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1817" data-name="未命名的渐变 18" cx="2684.2" cy="-719.3" fx="2684.2" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1818" data-name="未命名的渐变 18" cx="2684.2" fx="2684.2" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1819" data-name="未命名的渐变 18" cx="2725.9" cy="-695.2" fx="2725.9" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1820" data-name="未命名的渐变 18" cx="2725.9" cy="-791.5" fx="2725.9" fy="-791.5" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1821" data-name="未命名的渐变 18" cx="2767.6" fx="2767.6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1822" data-name="未命名的渐变 18" cx="2684.2" cy="-719.3" fx="2684.2" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1823" data-name="未命名的渐变 18" cx="2767.6" cy="-719.3" fx="2767.6" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1824" data-name="未命名的渐变 18" cx="2767.6" fx="2767.6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1825" data-name="未命名的渐变 18" cx="2809.3" cy="-695.2" fx="2809.3" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1826" data-name="未命名的渐变 18" cx="2809.3" cy="-791.5" fx="2809.3" fy="-791.5" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1827" data-name="未命名的渐变 18" cx="2851" fx="2851" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1828" data-name="未命名的渐变 18" cx="2767.6" cy="-719.3" fx="2767.6" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1829" data-name="未命名的渐变 18" cx="2851" cy="-719.3" fx="2851" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1830" data-name="未命名的渐变 18" cx="2475.8" cy="-695.2" fx="2475.8" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1831" data-name="未命名的渐变 18" cx="2517.5" cy="-622.9" fx="2517.5" fy="-622.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1832" data-name="未命名的渐变 18" cx="2517.5" cy="-719.3" fx="2517.5" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1833" data-name="未命名的渐变 18" cx="2559.2" cy="-695.2" fx="2559.2" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1834" data-name="未命名的渐变 18" cx="2475.8" cy="-647" fx="2475.8" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1835" data-name="未命名的渐变 18" cx="2559.2" cy="-647" fx="2559.2" fy="-647" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1836" data-name="未命名的渐变 18" cx="2559.2" cy="-695.2" fx="2559.2" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1837" data-name="未命名的渐变 18" cx="2600.9" cy="-622.9" fx="2600.9" fy="-622.9" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1838" data-name="未命名的渐变 18" cx="2600.9" cy="-719.3" fx="2600.9" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1839" data-name="未命名的渐变 18" cx="2642.5" cy="-695.2" fx="2642.5" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1840" data-name="未命名的渐变 18" cx="2559.2" cy="-647" fx="2559.2" fy="-647" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1841" data-name="未命名的渐变 18" cx="2642.5" cy="-647" fx="2642.5" fy="-647" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1842" data-name="未命名的渐变 18" cx="2642.5" cy="-695.2" fx="2642.5" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1843" data-name="未命名的渐变 18" cx="2684.2" cy="-622.9" fx="2684.2" fy="-622.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1844" data-name="未命名的渐变 18" cx="2684.2" cy="-719.3" fx="2684.2" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1845" data-name="未命名的渐变 18" cx="2725.9" cy="-695.2" fx="2725.9" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1846" data-name="未命名的渐变 18" cx="2642.5" cy="-647" fx="2642.5" fy="-647" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1847" data-name="未命名的渐变 18" cx="2725.9" cy="-647" fx="2725.9" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1848" data-name="未命名的渐变 18" cx="2725.9" cy="-695.2" fx="2725.9" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1849" data-name="未命名的渐变 18" cx="2767.6" cy="-622.9" fx="2767.6" fy="-622.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1850" data-name="未命名的渐变 18" cx="2767.6" cy="-719.3" fx="2767.6" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1851" data-name="未命名的渐变 18" cx="2809.3" cy="-695.2" fx="2809.3" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1852" data-name="未命名的渐变 18" cx="2725.9" cy="-647" fx="2725.9" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1853" data-name="未命名的渐变 18" cx="2809.3" cy="-647" fx="2809.3" fy="-647" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1854" data-name="未命名的渐变 18" cy="-622.9" fy="-622.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1855" data-name="未命名的渐变 18" cx="2475.8" cy="-550.6" fx="2475.8" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1856" data-name="未命名的渐变 18" cx="2475.8" cy="-647" fx="2475.8" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1857" data-name="未命名的渐变 18" cx="2517.5" cy="-622.9" fx="2517.5" fy="-622.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1858" data-name="未命名的渐变 18" cy="-574.7" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1859" data-name="未命名的渐变 18" cx="2517.5" cy="-574.7" fx="2517.5" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1860" data-name="未命名的渐变 18" cx="2517.5" cy="-622.9" fx="2517.5" fy="-622.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1861" data-name="未命名的渐变 18" cx="2559.2" cy="-550.6" fx="2559.2" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1862" data-name="未命名的渐变 18" cx="2559.2" cy="-647" fx="2559.2" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1863" data-name="未命名的渐变 18" cx="2600.9" cy="-622.9" fx="2600.9" fy="-622.9" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1864" data-name="未命名的渐变 18" cx="2517.5" cy="-574.7" fx="2517.5" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1865" data-name="未命名的渐变 18" cx="2600.9" cy="-574.7" fx="2600.9" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1866" data-name="未命名的渐变 18" cx="2600.9" cy="-622.9" fx="2600.9" fy="-622.9" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1867" data-name="未命名的渐变 18" cx="2642.5" cy="-550.6" fx="2642.5" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1868" data-name="未命名的渐变 18" cx="2642.5" cy="-647" fx="2642.5" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1869" data-name="未命名的渐变 18" cx="2684.2" cy="-622.9" fx="2684.2" fy="-622.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1870" data-name="未命名的渐变 18" cx="2600.9" cy="-574.7" fx="2600.9" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1871" data-name="未命名的渐变 18" cx="2684.2" cy="-574.7" fx="2684.2" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1872" data-name="未命名的渐变 18" cx="2684.2" cy="-622.9" fx="2684.2" fy="-622.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1873" data-name="未命名的渐变 18" cx="2725.9" cy="-550.6" fx="2725.9" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1874" data-name="未命名的渐变 18" cx="2725.9" cy="-647" fx="2725.9" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1875" data-name="未命名的渐变 18" cx="2767.6" cy="-622.9" fx="2767.6" fy="-622.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1876" data-name="未命名的渐变 18" cx="2684.2" cy="-574.7" fx="2684.2" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1877" data-name="未命名的渐变 18" cx="2767.6" cy="-574.7" fx="2767.6" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1878" data-name="未命名的渐变 18" cx="2767.6" cy="-622.9" fx="2767.6" fy="-622.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1879" data-name="未命名的渐变 18" cx="2809.3" cy="-550.6" fx="2809.3" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1880" data-name="未命名的渐变 18" cx="2809.3" cy="-647" fx="2809.3" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1881" data-name="未命名的渐变 18" cx="2851" cy="-622.9" fx="2851" fy="-622.9" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1882" data-name="未命名的渐变 18" cx="2767.6" cy="-574.7" fx="2767.6" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1883" data-name="未命名的渐变 18" cx="2851" cy="-574.7" fx="2851" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1884" data-name="未命名的渐变 18" cx="2475.8" cy="-550.6" fx="2475.8" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1885" data-name="未命名的渐变 18" cx="2517.5" cy="-478.3" fx="2517.5" fy="-478.3" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1886" data-name="未命名的渐变 18" cx="2517.5" cy="-574.7" fx="2517.5" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1887" data-name="未命名的渐变 18" cx="2559.2" cy="-550.6" fx="2559.2" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1888" data-name="未命名的渐变 18" cx="2475.8" cy="-502.4" fx="2475.8" fy="-502.4" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1889" data-name="未命名的渐变 18" cx="2559.2" cy="-502.4" fx="2559.2" fy="-502.4" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1890" data-name="未命名的渐变 18" cx="2559.2" cy="-550.6" fx="2559.2" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1891" data-name="未命名的渐变 18" cx="2600.9" cy="-478.3" fx="2600.9" fy="-478.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1892" data-name="未命名的渐变 18" cx="2600.9" cy="-574.7" fx="2600.9" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1893" data-name="未命名的渐变 18" cx="2642.5" cy="-550.6" fx="2642.5" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1894" data-name="未命名的渐变 18" cx="2559.2" cy="-502.4" fx="2559.2" fy="-502.4" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1895" data-name="未命名的渐变 18" cx="2642.5" cy="-502.4" fx="2642.5" fy="-502.4" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1896" data-name="未命名的渐变 18" cx="2642.5" cy="-550.6" fx="2642.5" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1897" data-name="未命名的渐变 18" cx="2684.2" cy="-478.3" fx="2684.2" fy="-478.3" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1898" data-name="未命名的渐变 18" cx="2684.2" cy="-574.7" fx="2684.2" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_1899" data-name="未命名的渐变 18" cx="2725.9" cy="-550.6" fx="2725.9" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18100" data-name="未命名的渐变 18" cx="2642.5" cy="-502.4" fx="2642.5" fy="-502.4" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18101" data-name="未命名的渐变 18" cx="2725.9" cy="-502.4" fx="2725.9" fy="-502.4" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18102" data-name="未命名的渐变 18" cx="2725.9" cy="-550.6" fx="2725.9" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18103" data-name="未命名的渐变 18" cx="2767.6" cy="-478.3" fx="2767.6" fy="-478.3" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18104" data-name="未命名的渐变 18" cx="2767.6" cy="-574.7" fx="2767.6" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18105" data-name="未命名的渐变 18" cx="2809.3" cy="-550.6" fx="2809.3" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18106" data-name="未命名的渐变 18" cx="2725.9" cy="-502.4" fx="2725.9" fy="-502.4" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18107" data-name="未命名的渐变 18" cx="2809.3" cy="-502.4" fx="2809.3" fy="-502.4" r="6" xlink:href="#_未命名的渐变_18"/>
+    <linearGradient id="_未命名的渐变_10" data-name="未命名的渐变 10" x1="-6.3" y1="938.3" x2="81.7" y2="938.3" gradientTransform="translate(1134.2 612.3) rotate(90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e91300"/>
+    </linearGradient>
+    <clipPath id="clippath-5">
+      <polygon class="st111" points="213.4 606 213.4 679.3 230.8 679.3 196 694 161.1 679.3 178.6 679.3 178.6 606 213.4 606 213.4 606"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <polygon class="st161" points="1022.4 593.6 1022.4 686.7 1039.8 686.7 1005 705.3 970.2 686.7 987.6 686.7 987.6 593.6 1022.4 593.6 1022.4 593.6"/>
+    </clipPath>
+    <linearGradient id="_未命名的渐变_61" data-name="未命名的渐变 6" x1="637.6" y1="873.1" x2="750.3" y2="873.1" gradientTransform="translate(16.3 -61.5)" xlink:href="#_未命名的渐变_6"/>
+    <linearGradient id="_未命名的渐变_31" data-name="未命名的渐变 3" x1="749.4" y1="872.7" x2="796.7" y2="872.7" gradientTransform="translate(1818.3 938.3) rotate(135)" xlink:href="#_未命名的渐变_3"/>
+    <clipPath id="clippath-7">
+      <rect class="st46" x="459.2" y="165.9" width="111.5" height="79.1"/>
+    </clipPath>
+    <radialGradient id="_未命名的渐变_18108" data-name="未命名的渐变 18" cx="-504.4" fx="-504.4" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18109" data-name="未命名的渐变 18" cx="-462.7" cy="-695.2" fx="-462.7" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18110" data-name="未命名的渐变 18" cx="-462.7" cy="-791.5" fx="-462.7" fy="-791.5" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18111" data-name="未命名的渐变 18" cx="-421" fx="-421" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18112" data-name="未命名的渐变 18" cx="-504.4" cy="-719.3" fx="-504.4" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18113" data-name="未命名的渐变 18" cx="-421" cy="-719.3" fx="-421" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18114" data-name="未命名的渐变 18" cx="-421" fx="-421" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18115" data-name="未命名的渐变 18" cx="-379.4" cy="-695.2" fx="-379.4" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18116" data-name="未命名的渐变 18" cx="-379.4" cy="-791.5" fx="-379.4" fy="-791.5" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18117" data-name="未命名的渐变 18" cx="-337.7" fx="-337.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18118" data-name="未命名的渐变 18" cx="-421" cy="-719.3" fx="-421" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18119" data-name="未命名的渐变 18" cx="-337.7" cy="-719.3" fx="-337.7" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18120" data-name="未命名的渐变 18" cx="-337.7" fx="-337.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18121" data-name="未命名的渐变 18" cx="-296" cy="-695.2" fx="-296" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18122" data-name="未命名的渐变 18" cx="-296" cy="-791.5" fx="-296" fy="-791.5" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18123" data-name="未命名的渐变 18" cx="-254.3" fx="-254.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18124" data-name="未命名的渐变 18" cx="-337.7" cy="-719.3" fx="-337.7" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18125" data-name="未命名的渐变 18" cx="-254.3" cy="-719.3" fx="-254.3" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18126" data-name="未命名的渐变 18" cx="-254.3" fx="-254.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18127" data-name="未命名的渐变 18" cx="-212.6" cy="-695.2" fx="-212.6" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18128" data-name="未命名的渐变 18" cx="-212.6" cy="-791.5" fx="-212.6" fy="-791.5" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18129" data-name="未命名的渐变 18" cx="-170.9" fx="-170.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18130" data-name="未命名的渐变 18" cx="-254.3" cy="-719.3" fx="-254.3" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18131" data-name="未命名的渐变 18" cx="-170.9" cy="-719.3" fx="-170.9" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18132" data-name="未命名的渐变 18" cx="-170.9" fx="-170.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18133" data-name="未命名的渐变 18" cx="-129.3" cy="-695.2" fx="-129.3" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18134" data-name="未命名的渐变 18" cx="-129.3" cy="-791.5" fx="-129.3" fy="-791.5" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18135" data-name="未命名的渐变 18" cx="-87.6" fx="-87.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18136" data-name="未命名的渐变 18" cx="-170.9" cy="-719.3" fx="-170.9" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18137" data-name="未命名的渐变 18" cx="-87.6" cy="-719.3" fx="-87.6" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18138" data-name="未命名的渐变 18" cx="-462.7" cy="-695.2" fx="-462.7" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18139" data-name="未命名的渐变 18" cx="-421" cy="-622.9" fx="-421" fy="-622.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18140" data-name="未命名的渐变 18" cx="-421" cy="-719.3" fx="-421" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18141" data-name="未命名的渐变 18" cx="-379.4" cy="-695.2" fx="-379.4" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18142" data-name="未命名的渐变 18" cx="-462.7" cy="-647" fx="-462.7" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18143" data-name="未命名的渐变 18" cx="-379.4" cy="-647" fx="-379.4" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18144" data-name="未命名的渐变 18" cx="-379.4" cy="-695.2" fx="-379.4" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18145" data-name="未命名的渐变 18" cx="-337.7" cy="-622.9" fx="-337.7" fy="-622.9" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18146" data-name="未命名的渐变 18" cx="-337.7" cy="-719.3" fx="-337.7" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18147" data-name="未命名的渐变 18" cx="-296" cy="-695.2" fx="-296" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18148" data-name="未命名的渐变 18" cx="-379.4" cy="-647" fx="-379.4" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18149" data-name="未命名的渐变 18" cx="-296" cy="-647" fx="-296" fy="-647" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18150" data-name="未命名的渐变 18" cx="-296" cy="-695.2" fx="-296" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18151" data-name="未命名的渐变 18" cx="-254.3" cy="-622.9" fx="-254.3" fy="-622.9" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18152" data-name="未命名的渐变 18" cx="-254.3" cy="-719.3" fx="-254.3" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18153" data-name="未命名的渐变 18" cx="-212.6" cy="-695.2" fx="-212.6" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18154" data-name="未命名的渐变 18" cx="-296" cy="-647" fx="-296" fy="-647" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18155" data-name="未命名的渐变 18" cx="-212.6" cy="-647" fx="-212.6" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18156" data-name="未命名的渐变 18" cx="-212.6" cy="-695.2" fx="-212.6" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18157" data-name="未命名的渐变 18" cx="-170.9" cy="-622.9" fx="-170.9" fy="-622.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18158" data-name="未命名的渐变 18" cx="-170.9" cy="-719.3" fx="-170.9" fy="-719.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18159" data-name="未命名的渐变 18" cx="-129.3" cy="-695.2" fx="-129.3" fy="-695.2" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18160" data-name="未命名的渐变 18" cx="-212.6" cy="-647" fx="-212.6" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18161" data-name="未命名的渐变 18" cx="-129.3" cy="-647" fx="-129.3" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18162" data-name="未命名的渐变 18" cx="-504.4" cy="-622.9" fx="-504.4" fy="-622.9" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18163" data-name="未命名的渐变 18" cx="-462.7" cy="-550.6" fx="-462.7" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18164" data-name="未命名的渐变 18" cx="-462.7" cy="-647" fx="-462.7" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18165" data-name="未命名的渐变 18" cx="-421" cy="-622.9" fx="-421" fy="-622.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18166" data-name="未命名的渐变 18" cx="-504.4" cy="-574.7" fx="-504.4" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18167" data-name="未命名的渐变 18" cx="-421" cy="-574.7" fx="-421" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18168" data-name="未命名的渐变 18" cx="-421" cy="-622.9" fx="-421" fy="-622.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18169" data-name="未命名的渐变 18" cx="-379.4" cy="-550.6" fx="-379.4" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18170" data-name="未命名的渐变 18" cx="-379.4" cy="-647" fx="-379.4" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18171" data-name="未命名的渐变 18" cx="-337.7" cy="-622.9" fx="-337.7" fy="-622.9" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18172" data-name="未命名的渐变 18" cx="-421" cy="-574.7" fx="-421" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18173" data-name="未命名的渐变 18" cx="-337.7" cy="-574.7" fx="-337.7" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18174" data-name="未命名的渐变 18" cx="-337.7" cy="-622.9" fx="-337.7" fy="-622.9" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18175" data-name="未命名的渐变 18" cx="-296" cy="-550.6" fx="-296" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18176" data-name="未命名的渐变 18" cx="-296" cy="-647" fx="-296" fy="-647" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18177" data-name="未命名的渐变 18" cx="-254.3" cy="-622.9" fx="-254.3" fy="-622.9" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18178" data-name="未命名的渐变 18" cx="-337.7" cy="-574.7" fx="-337.7" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18179" data-name="未命名的渐变 18" cx="-254.3" cy="-574.7" fx="-254.3" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18180" data-name="未命名的渐变 18" cx="-254.3" cy="-622.9" fx="-254.3" fy="-622.9" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18181" data-name="未命名的渐变 18" cx="-212.6" cy="-550.6" fx="-212.6" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18182" data-name="未命名的渐变 18" cx="-212.6" cy="-647" fx="-212.6" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18183" data-name="未命名的渐变 18" cx="-170.9" cy="-622.9" fx="-170.9" fy="-622.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18184" data-name="未命名的渐变 18" cx="-254.3" cy="-574.7" fx="-254.3" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18185" data-name="未命名的渐变 18" cx="-170.9" cy="-574.7" fx="-170.9" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18186" data-name="未命名的渐变 18" cx="-170.9" cy="-622.9" fx="-170.9" fy="-622.9" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18187" data-name="未命名的渐变 18" cx="-129.3" cy="-550.6" fx="-129.3" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18188" data-name="未命名的渐变 18" cx="-129.3" cy="-647" fx="-129.3" fy="-647" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18189" data-name="未命名的渐变 18" cx="-87.6" cy="-622.9" fx="-87.6" fy="-622.9" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18190" data-name="未命名的渐变 18" cx="-170.9" cy="-574.7" fx="-170.9" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18191" data-name="未命名的渐变 18" cx="-87.6" cy="-574.7" fx="-87.6" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18192" data-name="未命名的渐变 18" cx="-462.7" cy="-550.6" fx="-462.7" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18193" data-name="未命名的渐变 18" cx="-421" cy="-478.3" fx="-421" fy="-478.3" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18194" data-name="未命名的渐变 18" cx="-421" cy="-574.7" fx="-421" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18195" data-name="未命名的渐变 18" cx="-379.4" cy="-550.6" fx="-379.4" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18196" data-name="未命名的渐变 18" cx="-462.7" cy="-502.4" fx="-462.7" fy="-502.4" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18197" data-name="未命名的渐变 18" cx="-379.4" cy="-502.4" fx="-379.4" fy="-502.4" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18198" data-name="未命名的渐变 18" cx="-379.4" cy="-550.6" fx="-379.4" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18199" data-name="未命名的渐变 18" cx="-337.7" cy="-478.3" fx="-337.7" fy="-478.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18200" data-name="未命名的渐变 18" cx="-337.7" cy="-574.7" fx="-337.7" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18201" data-name="未命名的渐变 18" cx="-296" cy="-550.6" fx="-296" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18202" data-name="未命名的渐变 18" cx="-379.4" cy="-502.4" fx="-379.4" fy="-502.4" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18203" data-name="未命名的渐变 18" cx="-296" cy="-502.4" fx="-296" fy="-502.4" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18204" data-name="未命名的渐变 18" cx="-296" cy="-550.6" fx="-296" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18205" data-name="未命名的渐变 18" cx="-254.3" cy="-478.3" fx="-254.3" fy="-478.3" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18206" data-name="未命名的渐变 18" cx="-254.3" cy="-574.7" fx="-254.3" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18207" data-name="未命名的渐变 18" cx="-212.6" cy="-550.6" fx="-212.6" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18208" data-name="未命名的渐变 18" cx="-296" cy="-502.4" fx="-296" fy="-502.4" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18209" data-name="未命名的渐变 18" cx="-212.6" cy="-502.4" fx="-212.6" fy="-502.4" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18210" data-name="未命名的渐变 18" cx="-212.6" cy="-550.6" fx="-212.6" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18211" data-name="未命名的渐变 18" cx="-170.9" cy="-478.3" fx="-170.9" fy="-478.3" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18212" data-name="未命名的渐变 18" cx="-170.9" cy="-574.7" fx="-170.9" fy="-574.7" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18213" data-name="未命名的渐变 18" cx="-129.3" cy="-550.6" fx="-129.3" fy="-550.6" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18214" data-name="未命名的渐变 18" cx="-212.6" cy="-502.4" fx="-212.6" fy="-502.4" r="6" xlink:href="#_未命名的渐变_18"/>
+    <radialGradient id="_未命名的渐变_18215" data-name="未命名的渐变 18" cx="-129.3" cy="-502.4" fx="-129.3" fy="-502.4" r="6" xlink:href="#_未命名的渐变_18"/>
+    <clipPath id="clippath-8">
+      <polygon class="st48" points="1486 381.2 1745.8 381.2 1745.8 573.4 1486 573.4 1486 381.2 1486 381.2"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <polygon class="st46" points="1486 573.4 1745.8 573.4 1745.8 381.2 1486 381.2 1486 573.4 1486 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-24">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-25">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-26">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-27">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-28">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-29">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <pattern id="Unnamed_Pattern_5" data-name="Unnamed Pattern 5" x="0" y="0" width="64" height="64" patternTransform="translate(980.7 -620.4)" patternUnits="userSpaceOnUse" viewBox="0 0 64 64">
+      <g>
+        <rect class="st46" width="64" height="64"/>
+        <polygon class="st65" points="0 0 64 0 64 64 0 64 0 0 0 0"/>
+        <path class="st66" d="M0,0h16v8H0V0h0ZM8,8h16v8H8v-8h0ZM16,16h16v8h-16v-8h0ZM24,24h8v8h-8v-8h0ZM0,24h8v8H0v-8h0Z"/>
+      </g>
+    </pattern>
+    <clipPath id="clippath-30">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-31">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-32">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-33">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-34">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-35">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-36">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-37">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-38">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-39">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-40">
+      <polygon class="st48" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+    </clipPath>
+    <clipPath id="clippath-41">
+      <polygon class="st48" points="77.6 408.9 337.4 408.9 337.4 601.1 77.6 601.1 77.6 408.9 77.6 408.9"/>
+    </clipPath>
+    <clipPath id="clippath-42">
+      <polygon class="st46" points="77.6 601.1 337.4 601.1 337.4 408.9 77.6 408.9 77.6 601.1 77.6 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-43">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-44">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-45">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-46">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-47">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-48">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-49">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-50">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-51">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-52">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-53">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-54">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-55">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-56">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-57">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-58">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-59">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-60">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-61">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-62">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-63">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-64">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-65">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-66">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-67">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-68">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-69">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-70">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-71">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-72">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+    <clipPath id="clippath-73">
+      <polygon class="st48" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+    </clipPath>
+  </defs>
+  <rect class="st10" x="1460.7" y="301" width="642.4" height="784.1"/>
+  <polygon class="st16" points="2085 762.1 1938.8 762.1 1938.8 713.9 1938.8 713.9 2085 713.9 2085 762.1"/>
+  <rect class="st14" x="1485.5" y="972.5" width="254" height="72.9" rx="21" ry="21"/>
+  <rect class="st14" x="1543" y="669.4" width="137.9" height="48.2" rx="21" ry="21"/>
+  <rect class="st14" x="1547" y="319.4" width="137.9" height="48.2" rx="21" ry="21"/>
+  <rect class="st10" x="796.6" y="275" width="445.4" height="314.1"/>
+  <rect class="st14" x="972" y="415.4" width="246.5" height="48.2" rx="21" ry="21"/>
+  <rect class="st14" x="972" y="289.4" width="234.5" height="48.2" rx="21" ry="21"/>
+  <rect class="st14" x="858.5" y="322.6" width="82" height="42" rx="21" ry="21"/>
+  <rect class="st10" x="56.5" y="330" width="316.3" height="452"/>
+  <rect class="st14" x="136" y="345.4" width="137.9" height="48.2" rx="21" ry="21"/>
+  <rect class="st23" x="500" y="458" width="172" height="104" rx="12" ry="12"/>
+  <rect class="st7" x="822.6" y="378.6" width="142.1" height="146"/>
+  <rect class="st60" x="822.2" y="379.8" width="47.4" height="48.7"/>
+  <rect class="st57" x="870.6" y="428.5" width="47.4" height="48.7"/>
+  <rect class="st55" x="918" y="476" width="47.4" height="48.7"/>
+  <text class="st85" transform="translate(885.3 357.9) scale(1 1)"><tspan x="0" y="0">H</tspan></text>
+  <g>
+    <path class="st103" d="M1021,357c2.4,0,4.8,20,7.2,20s4.8-20,7.2-20,4.8,20,7.2,20,4.8-20,7.2-20,4.8,20,7.2,20,4.8-20,7.2-20,4.8,20,7.2,20,4.8-20,7.2-20,4.8,20,7.2,20,4.8-20,7.2-20,4.8,20,7.2,20,4.8-20,7.2-20,4.8,20,7.2,20,4.8-20,7.2-20,4.8,20,7.2,20,4.8-20,7.2-20,4.8,20,7.2,20,4.8-20,7.2-20,4.8,20,7.2,20"/>
+    <path class="st11" d="M1021,357c2.4,0,4.8,20,7.2,20s4.8-20,7.2-20,4.8,20,7.2,20,4.8-20,7.2-20,4.8,20,7.2,20,4.8-20,7.2-20,4.8,20,7.2,20,4.8-20,7.2-20,4.8,20,7.2,20,4.8-20,7.2-20,4.8,20,7.2,20,4.8-20,7.2-20,4.8,20,7.2,20,4.8-20,7.2-20,4.8,20,7.2,20,4.8-20,7.2-20,4.8,20,7.2,20,4.8-20,7.2-20,4.8,20,7.2,20"/>
+  </g>
+  <text class="st85" transform="translate(984 323.9) scale(1 1)"><tspan x="0" y="0">Wave Function</tspan></text>
+  <rect class="st185" x="1029.3" y="468.1" width="123.2" height="107.1" rx="44" ry="44"/>
+  <text class="st85" transform="translate(979 451.1) scale(1 1)"><tspan x="0" y="0">Electron Density</tspan></text>
+  <g>
+    <polygon class="st72" points="137 743.3 160.6 743.3 160.6 767.7 137 767.7 137 743.3 137 743.3"/>
+    <polygon class="st45" points="137 743.3 160.6 743.3 160.6 767.7 137 767.7 137 743.3 137 743.3"/>
+    <g class="st327">
+      <polygon class="st72" points="160.6 743.3 184.3 743.3 184.3 767.7 160.6 767.7 160.6 743.3 160.6 743.3"/>
+      <polygon class="st45" points="160.6 743.3 184.3 743.3 184.3 767.7 160.6 767.7 160.6 743.3 160.6 743.3"/>
+      <g class="st177">
+        <polygon class="st72" points="184.3 743.3 208.1 743.3 208.1 767.6 184.3 767.6 184.3 743.3 184.3 743.3"/>
+        <polygon class="st45" points="184.3 743.3 208.1 743.3 208.1 767.6 184.3 767.6 184.3 743.3 184.3 743.3"/>
+        <g class="st289">
+          <polygon class="st72" points="208.1 743.3 231.7 743.3 231.7 767.6 208.1 767.6 208.1 743.3 208.1 743.3"/>
+          <polygon class="st45" points="208.1 743.3 231.7 743.3 231.7 767.6 208.1 767.6 208.1 743.3 208.1 743.3"/>
+          <g class="st216">
+            <polygon class="st72" points="231.7 743.3 255.4 743.3 255.4 767.6 231.7 767.6 231.7 743.3 231.7 743.3"/>
+            <polygon class="st45" points="231.7 743.3 255.4 743.3 255.4 767.6 231.7 767.6 231.7 743.3 231.7 743.3"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect class="st14" x="126.4" y="700" width="137.9" height="36" rx="18" ry="18"/>
+  <text class="st85" transform="translate(145.3 729.1) scale(1 1)"><tspan x="0" y="0">Output</tspan></text>
+  <text/>
+  <text class="st85" transform="translate(156.3 379.3) scale(1 1)"><tspan x="0" y="0">Model</tspan></text>
+  <rect class="st10" x="808.1" y="710" width="413.9" height="183"/>
+  <g>
+    <ellipse class="st103" cx="912.3" cy="823.1" rx="59.2" ry="63.3"/>
+    <g>
+      <path class="st8" d="M902.5,823.1c.9,0,1.5,0,2,.2-.5,0-1.1-.1-2-.2Z"/>
+      <path class="st8" d="M914.7,825.6c-.1.5-.3,1-.5,1.4l-8-3.3c-.4-.2-.7-.3-1.2-.4l9.6,2.2Z"/>
+      <path class="st8" d="M925.3,833c-.5,1-1.1,2-1.7,2.9l-15.7-11.2c-.5-.3-.9-.6-1.3-.8l18.6,9.1Z"/>
+      <path class="st8" d="M932.5,844.9c-1.1,1.4-2.4,2.6-3.7,3.7l-18.8-22c-.5-.6-1.1-1.1-1.6-1.5l24,19.8Z"/>
+      <path class="st8" d="M934.8,860c-2,1.5-4.1,2.7-6.2,3.8l-16.7-34.5c-.3-.6-.7-1.3-1.2-1.9l24.1,32.6Z"/>
+      <path class="st8" d="M930.7,876.6c-3,1.2-6,2.1-9.2,2.6l-9.1-48.5s0-.3-.3-.8l18.5,46.6Z"/>
+      <path class="st22" d="M912.4,830.6c0,0,0-.2,0-.3,0,0,0-.3,0-.5,0,0,0,0,0,0,0,0,0,0,0,0v.2s0,.4,0,.4v-.4c0-.1,0-.4,0-.2,0,.1,0,.4,0,.5,0,0,0,.2,0,.3Z"/>
+      <path class="st22" d="M908.5,854.7c-1.5-.2-3.1-.6-4.5-1.2l8.5-23.3c-.2.4-.2.7-.2.6l-3.8,23.9Z"/>
+      <path class="st22" d="M907.4,841.4c-.7-.3-1.5-.8-2.2-1.3l8.6-12.4c-.5.7-.8,1.3-1.1,1.9l-5.3,11.7Z"/>
+      <path class="st22" d="M888.5,859c-1.9-1.5-3.7-3.3-5.3-5.2l32.7-28.5c-.5.4-1.1,1-1.6,1.6l-25.8,32Z"/>
+      <path class="st22" d="M871.3,859.2c-2-2.6-3.7-5.3-5.2-8.2l51.6-26.9c-.4.2-.8.5-1.3.8l-45.2,34.3Z"/>
+      <path class="st22" d="M841.5,857.7c-1.9-4.2-3.4-8.6-4.5-13.1l82.4-21.2c-.4.1-.8.2-1.1.4l-76.7,33.9Z"/>
+      <path class="st21" d="M848.1,837.1c-.7-3.9-1.1-7.8-1.3-11.7l74.9-2.3c-.8,0-1.4.1-1.9.2l-71.7,13.8Z"/>
+      <path class="st21" d="M884.6,822c0-1.9.3-3.9.6-5.7l34.7,6.7c.5,0,1.1.2,1.9.2l-37.2-1.1Z"/>
+      <path class="st21" d="M897.8,817.3c.3-1.2.7-2.3,1.2-3.3l19.2,8.5c.4.2.7.3,1.1.4l-21.5-5.6Z"/>
+      <path class="st21" d="M866.1,795.3c1.5-2.9,3.2-5.6,5.2-8.2l45.2,34.3c.5.4.9.6,1.3.8l-51.6-26.9Z"/>
+      <path class="st21" d="M854.7,767.7c3.1-3.5,6.4-6.8,10.1-9.8l49.5,61.4c.5.6,1,1.2,1.6,1.6l-61.2-53.2Z"/>
+      <path class="st21" d="M862.1,744.3c4.5-3.1,9.3-5.9,14.4-8.2l36.2,80.5c.3.6.6,1.3,1.1,1.9l-51.7-74.2Z"/>
+      <path class="st21" d="M878.2,721.9c6-2.2,12.3-3.8,18.6-4.8l15.4,98.4c0,0,0,.2.2.6l-34.2-94.2Z"/>
+      <path class="st19" d="M908.3,766.3c3.2-.3,6.4-.2,9.5.1l-5.5,49.2c0,0,0,.2,0,.3,0,0,0,.3,0,.5,0,.3,0,0,0-.2v-.4s-4-49.5-4-49.5Z"/>
+      <path class="st19" d="M923.8,754.6c3.9.7,7.8,1.9,11.5,3.3l-23.2,58.3c.2-.5.3-.8.3-.8l11.4-60.8Z"/>
+      <path class="st19" d="M950.5,737.2c5,2.4,9.7,5.3,14.1,8.6l-54,73c.5-.6.9-1.3,1.2-1.9l38.7-79.7Z"/>
+      <path class="st19" d="M977.8,740.2c4.7,4,9,8.4,12.9,13.1l-82.2,67.7c.5-.4,1-.9,1.6-1.5l67.7-79.4Z"/>
+      <path class="st19" d="M1005.3,751.7c4,5.5,7.4,11.3,10.4,17.4l-109,53.3c.4-.2.8-.4,1.3-.8l97.3-69.9Z"/>
+      <path class="st19" d="M1030.5,771.4c2.8,6.8,5,13.9,6.7,21l-132.1,30.5c.4,0,.8-.2,1.2-.4l124.2-51.1Z"/>
+      <path class="st19" d="M1051.2,798.7c1.3,7.8,2,15.8,2,23.6l-150.7.9c.9,0,1.5,0,2-.2l146.7-24.3Z"/>
+    </g>
+  </g>
+  <rect class="st10" x="472.6" y="956.8" width="240.8" height="195.7"/>
+  <g>
+    <g>
+      <line class="st6" x1="503.1" y1="1134.3" x2="681.9" y2="1134.3"/>
+      <line class="st6" x1="503.1" y1="1134.3" x2="503.1" y2="1130.3"/>
+      <line class="st6" x1="506.7" y1="1134.3" x2="506.7" y2="1130.3"/>
+      <line class="st6" x1="510.3" y1="1134.3" x2="510.3" y2="1130.3"/>
+      <line class="st6" x1="513.9" y1="1134.3" x2="513.9" y2="1130.3"/>
+      <line class="st6" x1="517.4" y1="1134.3" x2="517.4" y2="1130.3"/>
+      <line class="st6" x1="521" y1="1134.3" x2="521" y2="1130.3"/>
+      <line class="st6" x1="524.6" y1="1134.3" x2="524.6" y2="1130.3"/>
+      <line class="st6" x1="528.2" y1="1134.3" x2="528.2" y2="1130.3"/>
+      <line class="st6" x1="531.7" y1="1134.3" x2="531.7" y2="1130.3"/>
+      <line class="st6" x1="535.3" y1="1134.3" x2="535.3" y2="1130.3"/>
+      <line class="st6" x1="538.9" y1="1134.3" x2="538.9" y2="1130.3"/>
+      <line class="st6" x1="542.5" y1="1134.3" x2="542.5" y2="1130.3"/>
+      <line class="st6" x1="546" y1="1134.3" x2="546" y2="1130.3"/>
+      <line class="st6" x1="549.6" y1="1134.3" x2="549.6" y2="1130.3"/>
+      <line class="st6" x1="553.2" y1="1134.3" x2="553.2" y2="1130.3"/>
+      <line class="st6" x1="556.8" y1="1134.3" x2="556.8" y2="1130.3"/>
+      <line class="st6" x1="560.3" y1="1134.3" x2="560.3" y2="1130.3"/>
+      <line class="st6" x1="563.9" y1="1134.3" x2="563.9" y2="1130.3"/>
+      <line class="st6" x1="567.5" y1="1134.3" x2="567.5" y2="1130.3"/>
+      <line class="st6" x1="571.1" y1="1134.3" x2="571.1" y2="1130.3"/>
+      <line class="st6" x1="574.7" y1="1134.3" x2="574.7" y2="1130.3"/>
+      <line class="st6" x1="578.2" y1="1134.3" x2="578.2" y2="1130.3"/>
+      <line class="st6" x1="581.8" y1="1134.3" x2="581.8" y2="1130.3"/>
+      <line class="st6" x1="585.4" y1="1134.3" x2="585.4" y2="1130.3"/>
+      <line class="st6" x1="589" y1="1134.3" x2="589" y2="1130.3"/>
+      <line class="st6" x1="592.5" y1="1134.3" x2="592.5" y2="1130.3"/>
+      <line class="st6" x1="596.1" y1="1134.3" x2="596.1" y2="1130.3"/>
+      <line class="st6" x1="599.7" y1="1134.3" x2="599.7" y2="1130.3"/>
+      <line class="st6" x1="603.3" y1="1134.3" x2="603.3" y2="1130.3"/>
+      <line class="st6" x1="606.8" y1="1134.3" x2="606.8" y2="1130.3"/>
+      <line class="st6" x1="610.4" y1="1134.3" x2="610.4" y2="1130.3"/>
+      <line class="st6" x1="614" y1="1134.3" x2="614" y2="1130.3"/>
+      <line class="st6" x1="617.6" y1="1134.3" x2="617.6" y2="1130.3"/>
+      <line class="st6" x1="621.1" y1="1134.3" x2="621.1" y2="1130.3"/>
+      <line class="st6" x1="624.7" y1="1134.3" x2="624.7" y2="1130.3"/>
+      <line class="st6" x1="628.3" y1="1134.3" x2="628.3" y2="1130.3"/>
+      <line class="st6" x1="631.9" y1="1134.3" x2="631.9" y2="1130.3"/>
+      <line class="st6" x1="635.5" y1="1134.3" x2="635.5" y2="1130.3"/>
+      <line class="st6" x1="639" y1="1134.3" x2="639" y2="1130.3"/>
+      <line class="st6" x1="642.6" y1="1134.3" x2="642.6" y2="1130.3"/>
+      <line class="st6" x1="646.2" y1="1134.3" x2="646.2" y2="1130.3"/>
+      <line class="st6" x1="649.8" y1="1134.3" x2="649.8" y2="1130.3"/>
+      <line class="st6" x1="653.3" y1="1134.3" x2="653.3" y2="1130.3"/>
+      <line class="st6" x1="656.9" y1="1134.3" x2="656.9" y2="1130.3"/>
+      <line class="st6" x1="660.5" y1="1134.3" x2="660.5" y2="1130.3"/>
+      <line class="st6" x1="664.1" y1="1134.3" x2="664.1" y2="1130.3"/>
+      <line class="st6" x1="667.6" y1="1134.3" x2="667.6" y2="1130.3"/>
+      <line class="st6" x1="671.2" y1="1134.3" x2="671.2" y2="1130.3"/>
+      <line class="st6" x1="674.8" y1="1134.3" x2="674.8" y2="1130.3"/>
+      <line class="st6" x1="678.4" y1="1134.3" x2="678.4" y2="1130.3"/>
+      <line class="st6" x1="681.9" y1="1134.3" x2="681.9" y2="1130.3"/>
+      <line class="st6" x1="503.1" y1="1134.3" x2="503.1" y2="973.2"/>
+      <line class="st6" x1="503.1" y1="1134.3" x2="507.6" y2="1134.3"/>
+      <line class="st6" x1="503.1" y1="1102.1" x2="507.6" y2="1102.1"/>
+      <line class="st6" x1="503.1" y1="1069.9" x2="507.6" y2="1069.9"/>
+      <line class="st6" x1="503.1" y1="1037.6" x2="507.6" y2="1037.6"/>
+      <line class="st6" x1="503.1" y1="1005.4" x2="507.6" y2="1005.4"/>
+      <line class="st6" x1="503.1" y1="973.2" x2="507.6" y2="973.2"/>
+      <path class="st17" d="M504.9,982.4"/>
+      <path class="st17" d="M508.5,1006.5"/>
+      <path class="st17" d="M508.5,1006.5"/>
+      <g>
+        <line class="st15" x1="514.8" y1="1004.4" x2="511.2" y2="980.2"/>
+        <g>
+          <line class="st15" x1="518.4" y1="1019.4" x2="514.8" y2="1004.4"/>
+          <line class="st15" x1="522" y1="1036" x2="518.4" y2="1019.4"/>
+          <line class="st15" x1="525.5" y1="1050" x2="522" y2="1036"/>
+          <line class="st15" x1="529.1" y1="1058.8" x2="525.5" y2="1050"/>
+          <line class="st15" x1="532.7" y1="1068.9" x2="529.1" y2="1058.8"/>
+          <line class="st15" x1="536.3" y1="1076.1" x2="532.7" y2="1068.9"/>
+          <line class="st15" x1="539.8" y1="1083" x2="536.3" y2="1076.1"/>
+          <line class="st15" x1="543.4" y1="1087.2" x2="539.8" y2="1083"/>
+          <line class="st15" x1="547" y1="1092.6" x2="543.4" y2="1087.2"/>
+          <line class="st15" x1="550.6" y1="1095.4" x2="547" y2="1092.6"/>
+          <line class="st15" x1="554.1" y1="1099.4" x2="550.6" y2="1095.4"/>
+          <line class="st15" x1="557.7" y1="1101.8" x2="554.1" y2="1099.4"/>
+          <line class="st15" x1="561.3" y1="1104.4" x2="557.7" y2="1101.8"/>
+          <line class="st15" x1="564.9" y1="1106.7" x2="561.3" y2="1104.4"/>
+          <line class="st15" x1="568.4" y1="1108.2" x2="564.9" y2="1106.7"/>
+          <line class="st15" x1="572" y1="1110.3" x2="568.4" y2="1108.2"/>
+          <line class="st15" x1="575.6" y1="1111.8" x2="572" y2="1110.3"/>
+          <line class="st15" x1="579.2" y1="1113" x2="575.6" y2="1111.8"/>
+          <line class="st15" x1="582.8" y1="1114.1" x2="579.2" y2="1113"/>
+          <line class="st15" x1="586.3" y1="1115.2" x2="582.8" y2="1114.1"/>
+          <line class="st15" x1="589.9" y1="1116.4" x2="586.3" y2="1115.2"/>
+          <line class="st15" x1="593.5" y1="1116.8" x2="589.9" y2="1116.4"/>
+          <line class="st15" x1="597.1" y1="1117.9" x2="593.5" y2="1116.8"/>
+          <line class="st15" x1="600.6" y1="1118.4" x2="597.1" y2="1117.9"/>
+          <line class="st15" x1="604.2" y1="1119.2" x2="600.6" y2="1118.4"/>
+          <line class="st15" x1="607.8" y1="1119.6" x2="604.2" y2="1119.2"/>
+          <line class="st15" x1="611.4" y1="1120.3" x2="607.8" y2="1119.6"/>
+          <line class="st15" x1="614.9" y1="1120.7" x2="611.4" y2="1120.3"/>
+          <line class="st15" x1="618.5" y1="1121.2" x2="614.9" y2="1120.7"/>
+          <line class="st15" x1="622.1" y1="1121.4" x2="618.5" y2="1121.2"/>
+          <line class="st15" x1="625.7" y1="1121.9" x2="622.1" y2="1121.4"/>
+          <line class="st15" x1="629.2" y1="1122.2" x2="625.7" y2="1121.9"/>
+          <line class="st15" x1="632.8" y1="1122.6" x2="629.2" y2="1122.2"/>
+          <line class="st15" x1="636.4" y1="1123.1" x2="632.8" y2="1122.6"/>
+          <line class="st15" x1="640" y1="1123.2" x2="636.4" y2="1123.1"/>
+          <line class="st15" x1="643.5" y1="1123.5" x2="640" y2="1123.2"/>
+          <line class="st15" x1="647.1" y1="1123.7" x2="643.5" y2="1123.5"/>
+          <line class="st15" x1="650.7" y1="1123.9" x2="647.1" y2="1123.7"/>
+          <line class="st15" x1="654.3" y1="1124.1" x2="650.7" y2="1123.9"/>
+          <line class="st15" x1="657.9" y1="1124.4" x2="654.3" y2="1124.1"/>
+          <line class="st15" x1="661.4" y1="1124.5" x2="657.9" y2="1124.4"/>
+          <line class="st15" x1="665" y1="1124.6" x2="661.4" y2="1124.5"/>
+          <line class="st15" x1="668.6" y1="1124.8" x2="665" y2="1124.6"/>
+          <line class="st15" x1="672.2" y1="1125" x2="668.6" y2="1124.8"/>
+          <line class="st15" x1="675.7" y1="1125" x2="672.2" y2="1125"/>
+          <line class="st15" x1="679.3" y1="1125.2" x2="675.7" y2="1125"/>
+          <path class="st15" d="M679.3,1125.2"/>
+          <path class="st15" d="M682.9,1125.3"/>
+        </g>
+      </g>
+    </g>
+    <text class="st88" transform="translate(557.3 1047.5) scale(1.1 1)"><tspan x="0" y="0">Loss</tspan></text>
+  </g>
+  <rect class="st13" x="402.8" y="795.6" width="112.8" height="30.2" transform="translate(707.7 -87.3) rotate(45)"/>
+  <polygon class="st32" points="518.7 829.5 479.3 870.3 531.5 883.6 518.7 829.5"/>
+  <text class="st26" transform="translate(416.1 780.6) rotate(45) scale(1 1)"><tspan x="0" y="0">Forward</tspan></text>
+  <polygon class="st5" points="378.8 835.5 465.2 920.8 443.5 942.2 357.1 856.9 378.8 835.5"/>
+  <polygon class="st30" points="348 866.2 388 825.4 335 812 348 866.2"/>
+  <text class="st26" transform="translate(361 853.5) rotate(44.6) scale(1 1) skewX(-.8)"><tspan x="0" y="0">Backward</tspan></text>
+  <path class="st69" d="M1548,113.2c0-16.5,14.9-30,33.2-30h357.5c18.4,0,33.2,13.4,33.2,30v119.9c0,16.5-14.9,30-33.2,30h-357.5c-18.4,0-33.2-13.4-33.2-30v-119.9Z"/>
+  <path class="st50" d="M1558.5,113.2c0-16.5,15.2-30,33.9-30h364.3c18.7,0,33.9,13.4,33.9,30v119.9c0,16.5-15.2,30-33.9,30h-364.3c-18.7,0-33.9-13.4-33.9-30v-119.9Z"/>
+  <g class="st83">
+    <g>
+      <g>
+        <line class="st12" x1="1618.9" y1="148.9" x2="1618.9" y2="168.9"/>
+        <line class="st12" x1="1652.6" y1="148.9" x2="1652.6" y2="168.9"/>
+        <line class="st12" x1="1618.8" y1="148.8" x2="1635.7" y2="138.8"/>
+        <line class="st12" x1="1635.8" y1="138.8" x2="1652.6" y2="148.8"/>
+        <line class="st12" x1="1635.8" y1="178.9" x2="1652.7" y2="169"/>
+        <line class="st12" x1="1618.9" y1="169" x2="1635.7" y2="178.9"/>
+        <g>
+          <path class="st309" d="M1618.9,151.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1618.9,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1618.9,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st77" d="M1635.7,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1635.7,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1635.7,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <ellipse class="st113" cx="1635.7" cy="138.9" rx="2.4" ry="2.5"/>
+          <path d="M1635.7,136.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1635.7,135.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st292" d="M1652.6,151.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1652.6,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1652.6,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st146" d="M1618.9,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1618.9,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1618.9,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st188" d="M1652.6,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1652.6,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1652.6,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1652.6" y1="148.9" x2="1652.6" y2="168.9"/>
+        <line class="st12" x1="1686.2" y1="148.9" x2="1686.2" y2="168.9"/>
+        <line class="st12" x1="1652.5" y1="148.8" x2="1669.4" y2="138.8"/>
+        <line class="st12" x1="1669.4" y1="138.8" x2="1686.3" y2="148.8"/>
+        <line class="st12" x1="1669.5" y1="178.9" x2="1686.3" y2="169"/>
+        <line class="st12" x1="1652.5" y1="169" x2="1669.4" y2="178.9"/>
+        <g>
+          <path class="st180" d="M1652.6,151.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1652.6,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1652.6,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st97" d="M1669.4,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1669.4,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1669.4,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st208" d="M1669.4,141.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1669.4,136.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1669.4,135.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <ellipse class="st78" cx="1686.2" cy="148.9" rx="2.4" ry="2.5"/>
+          <path d="M1686.2,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1686.2,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st183" d="M1652.6,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1652.6,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1652.6,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st246" d="M1686.2,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1686.2,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1686.2,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1686.2" y1="148.9" x2="1686.2" y2="168.9"/>
+        <line class="st12" x1="1719.9" y1="148.9" x2="1719.9" y2="168.9"/>
+        <line class="st12" x1="1686.2" y1="148.8" x2="1703" y2="138.8"/>
+        <line class="st12" x1="1703.1" y1="138.8" x2="1719.9" y2="148.8"/>
+        <line class="st12" x1="1703.1" y1="178.9" x2="1720" y2="169"/>
+        <line class="st12" x1="1686.2" y1="169" x2="1703" y2="178.9"/>
+        <g>
+          <ellipse class="st152" cx="1686.2" cy="148.9" rx="2.4" ry="2.5"/>
+          <path d="M1686.2,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1686.2,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st164" d="M1703.1,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1703.1,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1703.1,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st53" d="M1703.1,141.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1703.1,136.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1703.1,135.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st139" d="M1719.9,151.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1719.9,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1719.9,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st191" d="M1686.2,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1686.2,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1686.2,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st224" d="M1719.9,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1719.9,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1719.9,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1719.9" y1="148.9" x2="1719.9" y2="168.9"/>
+        <line class="st12" x1="1753.5" y1="148.9" x2="1753.5" y2="168.9"/>
+        <line class="st12" x1="1719.8" y1="148.8" x2="1736.7" y2="138.8"/>
+        <line class="st12" x1="1736.8" y1="138.8" x2="1753.6" y2="148.8"/>
+        <line class="st12" x1="1736.8" y1="178.9" x2="1753.6" y2="169"/>
+        <line class="st12" x1="1719.9" y1="169" x2="1736.7" y2="178.9"/>
+        <g>
+          <path class="st266" d="M1719.9,151.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1719.9,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1719.9,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st141" d="M1736.7,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1736.7,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1736.7,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <ellipse class="st342" cx="1736.7" cy="138.9" rx="2.4" ry="2.5"/>
+          <path d="M1736.7,136.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1736.7,135.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st326" d="M1753.5,151.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1753.5,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1753.5,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st95" d="M1719.9,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1719.9,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1719.9,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st229" d="M1753.5,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1753.5,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1753.5,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1753.5" y1="148.9" x2="1753.5" y2="168.9"/>
+        <line class="st12" x1="1787.2" y1="148.9" x2="1787.2" y2="168.9"/>
+        <line class="st12" x1="1753.5" y1="148.8" x2="1770.3" y2="138.8"/>
+        <line class="st12" x1="1770.4" y1="138.8" x2="1787.3" y2="148.8"/>
+        <line class="st12" x1="1770.4" y1="178.9" x2="1787.3" y2="169"/>
+        <line class="st12" x1="1753.5" y1="169" x2="1770.4" y2="178.9"/>
+        <g>
+          <path class="st319" d="M1753.5,151.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1753.5,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1753.5,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st270" d="M1770.4,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1770.4,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1770.4,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st156" d="M1770.4,141.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1770.4,136.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1770.4,135.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <ellipse class="st235" cx="1787.2" cy="148.9" rx="2.4" ry="2.5"/>
+          <path d="M1787.2,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1787.2,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st41" d="M1753.5,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1753.5,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1753.5,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st163" d="M1787.2,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1787.2,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1787.2,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1635.7" y1="178.9" x2="1635.7" y2="198.8"/>
+        <line class="st12" x1="1669.4" y1="178.9" x2="1669.4" y2="198.8"/>
+        <line class="st12" x1="1635.7" y1="178.8" x2="1652.5" y2="168.8"/>
+        <line class="st12" x1="1652.6" y1="168.8" x2="1669.5" y2="178.8"/>
+        <line class="st12" x1="1652.6" y1="208.9" x2="1669.5" y2="198.9"/>
+        <line class="st12" x1="1635.7" y1="198.9" x2="1652.6" y2="208.9"/>
+        <g>
+          <path class="st257" d="M1635.7,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1635.7,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1635.7,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st263" d="M1652.6,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1652.6,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1652.6,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st218" d="M1652.6,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1652.6,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1652.6,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st116" d="M1669.4,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1669.4,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1669.4,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <ellipse class="st221" cx="1635.7" cy="198.8" rx="2.4" ry="2.5"/>
+          <path d="M1635.7,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1635.7,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st248" d="M1669.4,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1669.4,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1669.4,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1669.4" y1="178.9" x2="1669.4" y2="198.8"/>
+        <line class="st12" x1="1703.1" y1="178.9" x2="1703.1" y2="198.8"/>
+        <line class="st12" x1="1669.3" y1="178.8" x2="1686.2" y2="168.8"/>
+        <line class="st12" x1="1686.3" y1="168.8" x2="1703.1" y2="178.8"/>
+        <line class="st12" x1="1686.3" y1="208.9" x2="1703.1" y2="198.9"/>
+        <line class="st12" x1="1669.4" y1="198.9" x2="1686.2" y2="208.9"/>
+        <g>
+          <path class="st250" d="M1669.4,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1669.4,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1669.4,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <ellipse class="st184" cx="1686.2" cy="208.8" rx="2.4" ry="2.5"/>
+          <path d="M1686.2,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1686.2,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st213" d="M1686.2,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1686.2,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1686.2,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st165" d="M1703.1,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1703.1,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1703.1,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st29" d="M1669.4,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1669.4,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1669.4,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st40" d="M1703.1,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1703.1,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1703.1,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1703.1" y1="178.9" x2="1703.1" y2="198.8"/>
+        <line class="st12" x1="1736.7" y1="178.9" x2="1736.7" y2="198.8"/>
+        <line class="st12" x1="1703" y1="178.8" x2="1719.8" y2="168.8"/>
+        <line class="st12" x1="1719.9" y1="168.8" x2="1736.8" y2="178.8"/>
+        <line class="st12" x1="1720" y1="208.9" x2="1736.8" y2="198.9"/>
+        <line class="st12" x1="1703" y1="198.9" x2="1719.9" y2="208.9"/>
+        <g>
+          <path class="st301" d="M1703.1,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1703.1,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1703.1,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st151" d="M1719.9,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1719.9,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1719.9,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st340" d="M1719.9,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1719.9,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1719.9,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st262" d="M1736.7,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1736.7,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1736.7,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st176" d="M1703.1,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1703.1,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1703.1,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <ellipse class="st204" cx="1736.7" cy="198.8" rx="2.4" ry="2.5"/>
+          <path d="M1736.7,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1736.7,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1736.7" y1="178.9" x2="1736.7" y2="198.8"/>
+        <line class="st12" x1="1770.4" y1="178.9" x2="1770.4" y2="198.8"/>
+        <line class="st12" x1="1736.7" y1="178.8" x2="1753.5" y2="168.8"/>
+        <line class="st12" x1="1753.6" y1="168.8" x2="1770.4" y2="178.8"/>
+        <line class="st12" x1="1753.6" y1="208.9" x2="1770.5" y2="198.9"/>
+        <line class="st12" x1="1736.7" y1="198.9" x2="1753.5" y2="208.9"/>
+        <g>
+          <path class="st157" d="M1736.7,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1736.7,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1736.7,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st346" d="M1753.5,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1753.5,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1753.5,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st79" d="M1753.5,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1753.5,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1753.5,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st0" d="M1770.4,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1770.4,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1770.4,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <ellipse class="st318" cx="1736.7" cy="198.8" rx="2.4" ry="2.5"/>
+          <path d="M1736.7,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1736.7,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st168" d="M1770.4,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1770.4,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1770.4,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1618.9" y1="208.8" x2="1618.9" y2="228.8"/>
+        <line class="st12" x1="1652.6" y1="208.8" x2="1652.6" y2="228.8"/>
+        <line class="st12" x1="1618.8" y1="208.8" x2="1635.7" y2="198.8"/>
+        <line class="st12" x1="1635.8" y1="198.8" x2="1652.6" y2="208.8"/>
+        <line class="st12" x1="1635.8" y1="238.9" x2="1652.7" y2="228.9"/>
+        <line class="st12" x1="1618.9" y1="228.9" x2="1635.7" y2="238.9"/>
+        <g>
+          <path class="st281" d="M1618.9,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1618.9,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1618.9,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st312" d="M1635.7,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1635.7,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1635.7,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st223" d="M1635.7,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1635.7,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1635.7,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st343" d="M1652.6,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1652.6,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1652.6,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st134" d="M1618.9,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1618.9,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1618.9,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st219" d="M1652.6,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1652.6,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1652.6,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1652.6" y1="208.8" x2="1652.6" y2="228.8"/>
+        <line class="st12" x1="1686.2" y1="208.8" x2="1686.2" y2="228.8"/>
+        <line class="st12" x1="1652.5" y1="208.8" x2="1669.4" y2="198.8"/>
+        <line class="st12" x1="1669.4" y1="198.8" x2="1686.3" y2="208.8"/>
+        <line class="st12" x1="1669.5" y1="238.9" x2="1686.3" y2="228.9"/>
+        <line class="st12" x1="1652.5" y1="228.9" x2="1669.4" y2="238.9"/>
+        <g>
+          <path class="st276" d="M1652.6,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1652.6,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1652.6,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st234" d="M1669.4,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1669.4,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1669.4,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st272" d="M1669.4,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1669.4,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1669.4,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <ellipse class="st278" cx="1686.2" cy="208.8" rx="2.4" ry="2.5"/>
+          <path d="M1686.2,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1686.2,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st159" d="M1652.6,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1652.6,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1652.6,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st206" d="M1686.2,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1686.2,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1686.2,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1686.2" y1="208.8" x2="1686.2" y2="228.8"/>
+        <line class="st12" x1="1719.9" y1="208.8" x2="1719.9" y2="228.8"/>
+        <line class="st12" x1="1686.2" y1="208.8" x2="1703" y2="198.8"/>
+        <line class="st12" x1="1703.1" y1="198.8" x2="1719.9" y2="208.8"/>
+        <line class="st12" x1="1703.1" y1="238.9" x2="1720" y2="228.9"/>
+        <line class="st12" x1="1686.2" y1="228.9" x2="1703" y2="238.9"/>
+        <g>
+          <ellipse class="st225" cx="1686.2" cy="208.8" rx="2.4" ry="2.5"/>
+          <path d="M1686.2,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1686.2,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st350" d="M1703.1,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1703.1,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1703.1,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st64" d="M1703.1,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1703.1,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1703.1,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st114" d="M1719.9,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1719.9,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1719.9,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st3" d="M1686.2,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1686.2,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1686.2,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st107" d="M1719.9,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1719.9,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1719.9,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1719.9" y1="208.8" x2="1719.9" y2="228.8"/>
+        <line class="st12" x1="1753.5" y1="208.8" x2="1753.5" y2="228.8"/>
+        <line class="st12" x1="1719.8" y1="208.8" x2="1736.7" y2="198.8"/>
+        <line class="st12" x1="1736.8" y1="198.8" x2="1753.6" y2="208.8"/>
+        <line class="st12" x1="1736.8" y1="238.9" x2="1753.6" y2="228.9"/>
+        <line class="st12" x1="1719.9" y1="228.9" x2="1736.7" y2="238.9"/>
+        <g>
+          <path class="st106" d="M1719.9,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1719.9,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1719.9,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st299" d="M1736.7,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1736.7,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1736.7,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st294" d="M1736.7,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1736.7,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1736.7,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st63" d="M1753.5,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1753.5,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1753.5,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st274" d="M1719.9,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1719.9,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1719.9,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st198" d="M1753.5,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1753.5,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1753.5,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1753.5" y1="208.8" x2="1753.5" y2="228.8"/>
+        <line class="st12" x1="1787.2" y1="208.8" x2="1787.2" y2="228.8"/>
+        <line class="st12" x1="1753.5" y1="208.8" x2="1770.3" y2="198.8"/>
+        <line class="st12" x1="1770.4" y1="198.8" x2="1787.3" y2="208.8"/>
+        <line class="st12" x1="1770.4" y1="238.9" x2="1787.3" y2="228.9"/>
+        <line class="st12" x1="1753.5" y1="228.9" x2="1770.4" y2="238.9"/>
+        <g>
+          <path class="st210" d="M1753.5,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1753.5,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1753.5,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st304" d="M1770.4,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1770.4,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1770.4,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st199" d="M1770.4,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1770.4,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1770.4,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <ellipse class="st217" cx="1787.2" cy="208.8" rx="2.4" ry="2.5"/>
+          <path d="M1787.2,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1787.2,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st129" d="M1753.5,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1753.5,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1753.5,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st311" d="M1787.2,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1787.2,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1787.2,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1635.7" y1="238.8" x2="1635.7" y2="258.8"/>
+        <line class="st12" x1="1669.4" y1="238.8" x2="1669.4" y2="258.8"/>
+        <line class="st12" x1="1635.7" y1="238.8" x2="1652.5" y2="228.8"/>
+        <line class="st12" x1="1652.6" y1="228.8" x2="1669.5" y2="238.8"/>
+        <line class="st12" x1="1652.6" y1="268.9" x2="1669.5" y2="258.9"/>
+        <line class="st12" x1="1635.7" y1="258.9" x2="1652.6" y2="268.9"/>
+        <g>
+          <path class="st255" d="M1635.7,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1635.7,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1635.7,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st282" d="M1652.6,271.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1652.6,266.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1652.6,265.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st256" d="M1652.6,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1652.6,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1652.6,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st179" d="M1669.4,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1669.4,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1669.4,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st174" d="M1635.7,261.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1635.7,256.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1635.7,255.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st332" d="M1669.4,261.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1669.4,256.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1669.4,255.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1669.4" y1="238.8" x2="1669.4" y2="258.8"/>
+        <line class="st12" x1="1703.1" y1="238.8" x2="1703.1" y2="258.8"/>
+        <line class="st12" x1="1669.3" y1="238.8" x2="1686.2" y2="228.8"/>
+        <line class="st12" x1="1686.3" y1="228.8" x2="1703.1" y2="238.8"/>
+        <line class="st12" x1="1686.3" y1="268.9" x2="1703.1" y2="258.9"/>
+        <line class="st12" x1="1669.4" y1="258.9" x2="1686.2" y2="268.9"/>
+        <g>
+          <path class="st280" d="M1669.4,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1669.4,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1669.4,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <ellipse class="st254" cx="1686.2" cy="268.8" rx="2.4" ry="2.5"/>
+          <path d="M1686.2,266.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1686.2,265.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st232" d="M1686.2,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1686.2,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1686.2,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st200" d="M1703.1,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1703.1,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1703.1,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st182" d="M1669.4,261.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1669.4,256.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1669.4,255.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st336" d="M1703.1,261.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1703.1,256.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1703.1,255.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1703.1" y1="238.8" x2="1703.1" y2="258.8"/>
+        <line class="st12" x1="1736.7" y1="238.8" x2="1736.7" y2="258.8"/>
+        <line class="st12" x1="1703" y1="238.8" x2="1719.8" y2="228.8"/>
+        <line class="st12" x1="1719.9" y1="228.8" x2="1736.8" y2="238.8"/>
+        <line class="st12" x1="1720" y1="268.9" x2="1736.8" y2="258.9"/>
+        <line class="st12" x1="1703" y1="258.9" x2="1719.9" y2="268.9"/>
+        <g>
+          <path class="st338" d="M1703.1,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1703.1,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1703.1,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st142" d="M1719.9,271.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1719.9,266.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1719.9,265.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st265" d="M1719.9,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1719.9,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1719.9,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st260" d="M1736.7,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1736.7,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1736.7,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st222" d="M1703.1,261.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1703.1,256.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1703.1,255.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st186" d="M1736.7,261.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1736.7,256.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1736.7,255.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+      <g>
+        <line class="st12" x1="1736.7" y1="238.8" x2="1736.7" y2="258.8"/>
+        <line class="st12" x1="1770.4" y1="238.8" x2="1770.4" y2="258.8"/>
+        <line class="st12" x1="1736.7" y1="238.8" x2="1753.5" y2="228.8"/>
+        <line class="st12" x1="1753.6" y1="228.8" x2="1770.4" y2="238.8"/>
+        <line class="st12" x1="1753.6" y1="268.9" x2="1770.5" y2="258.9"/>
+        <line class="st12" x1="1736.7" y1="258.9" x2="1753.5" y2="268.9"/>
+        <g>
+          <path class="st258" d="M1736.7,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1736.7,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1736.7,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st197" d="M1753.5,271.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1753.5,266.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1753.5,265.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st315" d="M1753.5,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1753.5,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1753.5,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st237" d="M1770.4,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1770.4,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1770.4,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st267" d="M1736.7,261.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1736.7,256.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1736.7,255.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+        <g>
+          <path class="st316" d="M1770.4,261.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+          <path d="M1770.4,256.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M1770.4,255.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <image width="836" height="687" transform="translate(1803.4 168.1) scale(.1)" xlink:href="Fig1without_tag-1.png"/>
+  <text class="st85" transform="translate(1566.2 354.9) scale(1 1)"><tspan x="0" y="0">Model</tspan></text>
+  <g>
+    <rect class="st20" x="1538.1" y="746.8" width="142.1" height="146"/>
+    <rect class="st60" x="1538.7" y="747.7" width="47.4" height="48.7"/>
+    <rect class="st57" x="1586" y="796.5" width="47.4" height="48.7"/>
+    <rect class="st56" x="1633.2" y="845.3" width="47.4" height="48.4"/>
+    <rect class="st24" x="1633.2" y="747.7" width="47.4" height="48.7"/>
+    <rect class="st24" x="1538.5" y="845.3" width="47.4" height="48.4"/>
+    <rect class="st59" x="1585.9" y="747.7" width="47.4" height="48.7"/>
+    <rect class="st58" x="1633.2" y="796.5" width="47.4" height="48.7"/>
+    <rect class="st58" x="1585.9" y="845.3" width="47.4" height="48.4"/>
+    <rect class="st59" x="1538.5" y="796.5" width="47.4" height="48.7"/>
+  </g>
+  <text class="st85" transform="translate(1596.6 705.9) scale(1 1)"><tspan x="0" y="0">D</tspan></text>
+  <text class="st85" transform="translate(1512.9 1018.1) scale(1 1)"><tspan x="0" y="0">Target Energy </tspan></text>
+  <path class="st4" d="M1748.8,875.4c-39.2,18.8-35.2,75.9,6.3,84.7,80.8,17,196.2-136,168.8-252.5-16.6-88.6-127.5-190.1-157.7-125-6.3,13.7-5.3,29.4,2.6,41.6,27,41.9,95.4,41,55.3,154-6,18.6-16.4,51.3-45.4,77.3-10.2,9.2-20.4,15.4-29.9,19.9Z"/>
+  <text class="st85" transform="translate(1941.6 749.1) scale(1 1)"><tspan x="0" y="0">Backward</tspan></text>
+  <polygon class="st4" points="1747.3 540.8 1721.4 664.7 1863 519.7 1747.3 540.8"/>
+  <rect class="st14" x="1059.6" y="783.3" width="137.9" height="48.2" rx="21" ry="21"/>
+  <text class="st85" transform="translate(1076.5 819.3) scale(.9 1)"><tspan x="0" y="0">Dataset</tspan></text>
+  <g>
+    <polygon class="st68" points="213.4 606 213.4 679.3 230.8 679.3 196 694 161.1 679.3 178.6 679.3 178.6 606 213.4 606 213.4 606"/>
+    <g class="st195">
+      <polygon class="st110" points="213.4 606 213.4 679.3 230.8 679.3 196 694 161.1 679.3 178.6 679.3 178.6 606 213.4 606 213.4 606"/>
+    </g>
+  </g>
+  <g>
+    <line x1="1609.7" y1="585" x2="1609.7" y2="645.8"/>
+    <g>
+      <line class="st18" x1="1609.7" y1="585" x2="1609.7" y2="621.7"/>
+      <path d="M1609.7,645.8c-4.2-11.4-11.4-25.5-19-34.2l19,6.9,19-6.9c-7.6,8.7-14.8,22.8-19,34.2Z"/>
+    </g>
+  </g>
+  <g>
+    <line x1="1608" y1="907" x2="1608" y2="960.9"/>
+    <g>
+      <line class="st18" x1="1608" y1="907" x2="1608" y2="936.7"/>
+      <path d="M1608,960.9c-4.2-11.4-11.4-25.5-19-34.2l19,6.9,19-6.9c-7.6,8.7-14.8,22.8-19,34.2Z"/>
+    </g>
+  </g>
+  <polygon class="st16" points="1101.5 256.6 922 256.6 922 203 922 203 1101.5 203 1101.5 256.6"/>
+  <text class="st86" transform="translate(977 244.4) scale(.9 1)"><tspan x="0" y="0">SCF</tspan></text>
+  <g>
+    <polygon class="st70" points="1022.4 593.6 1022.4 686.7 1039.8 686.7 1005 705.3 970.2 686.7 987.6 686.7 987.6 593.6 1022.4 593.6 1022.4 593.6"/>
+    <g class="st37">
+      <polygon class="st145" points="1022.4 593.6 1022.4 686.7 1039.8 686.7 1005 705.3 970.2 686.7 987.6 686.7 987.6 593.6 1022.4 593.6 1022.4 593.6"/>
+    </g>
+  </g>
+  <polygon class="st16" points="1282.5 696.5 1057.5 696.5 1057.5 600.5 1057.5 600.5 1282.5 600.5 1282.5 696.5"/>
+  <text class="st86" transform="translate(1114.1 638.9) scale(.9 1)"><tspan x="0" y="0">Dataset </tspan><tspan x="-43.4" y="48">Construction</tspan></text>
+  <polygon class="st16" points="330 311.6 90.3 311.6 90.3 258 90.3 258 330 258 330 311.6"/>
+  <text class="st86" transform="translate(93 297.4) scale(.9 1)"><tspan x="0" y="0">Model Training</tspan></text>
+  <rect class="st9" x="653.9" y="796.5" width="112.8" height="30.2" transform="translate(1786.4 883.3) rotate(135)"/>
+  <polygon class="st31" points="691.4 871.1 650.6 831.7 637.3 883.9 691.4 871.1"/>
+  <text class="st26" transform="translate(681.9 851.7) rotate(-45) scale(1 1)"><tspan x="0" y="0">Forward</tspan></text>
+  <polygon class="st16" points="710 943 474 943 474 885.4 474 885.4 710 885.4 710 943"/>
+  <text class="st85" transform="translate(478 924.1) scale(.9 1)"><tspan x="0" y="0">Loss Calculation</tspan></text>
+  <g>
+    <line x1="494.4" y1="510.4" x2="396" y2="510.4"/>
+    <g>
+      <line class="st18" x1="494.4" y1="510.4" x2="420.1" y2="510.4"/>
+      <path d="M396,510.4c11.4-4.2,25.5-11.4,34.2-19l-6.9,19,6.9,19c-8.7-7.6-22.8-14.8-34.2-19Z"/>
+    </g>
+  </g>
+  <text class="st87" transform="translate(514.1 496.8) scale(1 1)"><tspan x="0" y="0">Separate </tspan><tspan x="-8.2" y="50.4">processes</tspan></text>
+  <text class="st90" transform="translate(226.8 53.5) scale(.9 1)"><tspan class="st27" x="0" y="0">Conventional DFT-ML workflow</tspan><tspan class="st226" x="809.9" y="0"> </tspan></text>
+  <text class="st28" transform="translate(1443.1 53.5) scale(.9 1)"><tspan x="0" y="0">Integrated DFT-ML workflow</tspan></text>
+  <g>
+    <path class="st69" d="M394.2,113.2c0-16.5,13.7-30,30.7-30h329.9c16.9,0,30.7,13.4,30.7,30v119.9c0,16.5-13.7,30-30.7,30h-329.9c-16.9,0-30.7-13.4-30.7-30v-119.9Z"/>
+    <path class="st50" d="M377.7,113.2c0-16.5,15.2-30,33.9-30h364.3c18.7,0,33.9,13.4,33.9,30v119.9c0,16.5-15.2,30-33.9,30h-364.3c-18.7,0-33.9-13.4-33.9-30v-119.9Z"/>
+    <g class="st38">
+      <g>
+        <g>
+          <line class="st12" x1="432.4" y1="148.9" x2="432.4" y2="168.9"/>
+          <line class="st12" x1="466" y1="148.9" x2="466" y2="168.9"/>
+          <line class="st12" x1="432.3" y1="148.8" x2="449.2" y2="138.8"/>
+          <line class="st12" x1="449.2" y1="138.8" x2="466.1" y2="148.8"/>
+          <line class="st12" x1="449.3" y1="178.9" x2="466.1" y2="169"/>
+          <line class="st12" x1="432.3" y1="169" x2="449.2" y2="178.9"/>
+          <g>
+            <path class="st33" d="M432.4,151.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M432.4,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M432.4,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st123" d="M449.2,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M449.2,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M449.2,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st158" d="M449.2,141.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M449.2,136.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M449.2,135.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <ellipse class="st337" cx="466" cy="148.9" rx="2.4" ry="2.5"/>
+            <path d="M466,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M466,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st112" d="M432.4,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M432.4,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M432.4,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st243" d="M466,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M466,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M466,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="466" y1="148.9" x2="466" y2="168.9"/>
+          <line class="st12" x1="499.7" y1="148.9" x2="499.7" y2="168.9"/>
+          <line class="st12" x1="466" y1="148.8" x2="482.8" y2="138.8"/>
+          <line class="st12" x1="482.9" y1="138.8" x2="499.7" y2="148.8"/>
+          <line class="st12" x1="482.9" y1="178.9" x2="499.8" y2="169"/>
+          <line class="st12" x1="466" y1="169" x2="482.9" y2="178.9"/>
+          <g>
+            <ellipse class="st277" cx="466" cy="148.9" rx="2.4" ry="2.5"/>
+            <path d="M466,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M466,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st137" d="M482.9,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M482.9,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M482.9,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st120" d="M482.9,141.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M482.9,136.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M482.9,135.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st231" d="M499.7,151.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M499.7,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M499.7,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st236" d="M466,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M466,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M466,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st247" d="M499.7,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M499.7,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M499.7,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="499.7" y1="148.9" x2="499.7" y2="168.9"/>
+          <line class="st12" x1="533.4" y1="148.9" x2="533.4" y2="168.9"/>
+          <line class="st12" x1="499.6" y1="148.8" x2="516.5" y2="138.8"/>
+          <line class="st12" x1="516.6" y1="138.8" x2="533.4" y2="148.8"/>
+          <line class="st12" x1="516.6" y1="178.9" x2="533.4" y2="169"/>
+          <line class="st12" x1="499.7" y1="169" x2="516.5" y2="178.9"/>
+          <g>
+            <path class="st320" d="M499.7,151.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M499.7,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M499.7,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st334" d="M516.5,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M516.5,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M516.5,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <ellipse class="st259" cx="516.5" cy="138.9" rx="2.4" ry="2.5"/>
+            <path d="M516.5,136.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M516.5,135.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st333" d="M533.4,151.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M533.4,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M533.4,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st102" d="M499.7,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M499.7,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M499.7,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st117" d="M533.4,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M533.4,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M533.4,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="533.4" y1="148.9" x2="533.4" y2="168.9"/>
+          <line class="st12" x1="567" y1="148.9" x2="567" y2="168.9"/>
+          <line class="st12" x1="533.3" y1="148.8" x2="550.1" y2="138.8"/>
+          <line class="st12" x1="550.2" y1="138.8" x2="567.1" y2="148.8"/>
+          <line class="st12" x1="550.3" y1="178.9" x2="567.1" y2="169"/>
+          <line class="st12" x1="533.3" y1="169" x2="550.2" y2="178.9"/>
+          <g>
+            <path class="st314" d="M533.4,151.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M533.4,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M533.4,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st293" d="M550.2,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M550.2,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M550.2,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st2" d="M550.2,141.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M550.2,136.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M550.2,135.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <ellipse class="st323" cx="567" cy="148.9" rx="2.4" ry="2.5"/>
+            <path d="M567,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M567,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st149" d="M533.4,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M533.4,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M533.4,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st172" d="M567,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M567,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M567,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="567" y1="148.9" x2="567" y2="168.9"/>
+          <line class="st12" x1="600.7" y1="148.9" x2="600.7" y2="168.9"/>
+          <line class="st12" x1="567" y1="148.8" x2="583.8" y2="138.8"/>
+          <line class="st12" x1="583.9" y1="138.8" x2="600.7" y2="148.8"/>
+          <line class="st12" x1="583.9" y1="178.9" x2="600.8" y2="169"/>
+          <line class="st12" x1="567" y1="169" x2="583.8" y2="178.9"/>
+          <g>
+            <ellipse class="st173" cx="567" cy="148.9" rx="2.4" ry="2.5"/>
+            <path d="M567,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M567,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st307" d="M583.8,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M583.8,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M583.8,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st147" d="M583.8,141.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M583.8,136.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M583.8,135.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st99" d="M600.7,151.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M600.7,146.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M600.7,145.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st181" d="M567,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M567,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M567,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st335" d="M600.7,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M600.7,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M600.7,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="449.2" y1="178.9" x2="449.2" y2="198.8"/>
+          <line class="st12" x1="482.9" y1="178.9" x2="482.9" y2="198.8"/>
+          <line class="st12" x1="449.1" y1="178.8" x2="466" y2="168.8"/>
+          <line class="st12" x1="466.1" y1="168.8" x2="482.9" y2="178.8"/>
+          <line class="st12" x1="466.1" y1="208.9" x2="483" y2="198.9"/>
+          <line class="st12" x1="449.2" y1="198.9" x2="466" y2="208.9"/>
+          <g>
+            <path class="st105" d="M449.2,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M449.2,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M449.2,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <ellipse class="st101" cx="466" cy="208.8" rx="2.4" ry="2.5"/>
+            <path d="M466,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M466,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st286" d="M466,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M466,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M466,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st310" d="M482.9,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M482.9,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M482.9,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st118" d="M449.2,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M449.2,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M449.2,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st287" d="M482.9,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M482.9,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M482.9,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="482.9" y1="178.9" x2="482.9" y2="198.8"/>
+          <line class="st12" x1="516.5" y1="178.9" x2="516.5" y2="198.8"/>
+          <line class="st12" x1="482.8" y1="178.8" x2="499.7" y2="168.8"/>
+          <line class="st12" x1="499.7" y1="168.8" x2="516.6" y2="178.8"/>
+          <line class="st12" x1="499.8" y1="208.9" x2="516.6" y2="198.9"/>
+          <line class="st12" x1="482.8" y1="198.9" x2="499.7" y2="208.9"/>
+          <g>
+            <path class="st133" d="M482.9,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M482.9,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M482.9,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st119" d="M499.7,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M499.7,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M499.7,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st171" d="M499.7,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M499.7,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M499.7,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st330" d="M516.5,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M516.5,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M516.5,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st80" d="M482.9,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M482.9,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M482.9,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <ellipse class="st160" cx="516.5" cy="198.8" rx="2.4" ry="2.5"/>
+            <path d="M516.5,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M516.5,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="516.5" y1="178.9" x2="516.5" y2="198.8"/>
+          <line class="st12" x1="550.2" y1="178.9" x2="550.2" y2="198.8"/>
+          <line class="st12" x1="516.5" y1="178.8" x2="533.3" y2="168.8"/>
+          <line class="st12" x1="533.4" y1="168.8" x2="550.2" y2="178.8"/>
+          <line class="st12" x1="533.4" y1="208.9" x2="550.3" y2="198.9"/>
+          <line class="st12" x1="516.5" y1="198.9" x2="533.3" y2="208.9"/>
+          <g>
+            <path class="st130" d="M516.5,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M516.5,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M516.5,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st240" d="M533.4,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M533.4,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M533.4,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st194" d="M533.4,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M533.4,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M533.4,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st202" d="M550.2,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M550.2,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M550.2,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <ellipse class="st98" cx="516.5" cy="198.8" rx="2.4" ry="2.5"/>
+            <path d="M516.5,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M516.5,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st298" d="M550.2,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M550.2,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M550.2,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="550.2" y1="178.9" x2="550.2" y2="198.8"/>
+          <line class="st12" x1="583.8" y1="178.9" x2="583.8" y2="198.8"/>
+          <line class="st12" x1="550.1" y1="178.8" x2="567" y2="168.8"/>
+          <line class="st12" x1="567.1" y1="168.8" x2="583.9" y2="178.8"/>
+          <line class="st12" x1="567.1" y1="208.9" x2="583.9" y2="198.9"/>
+          <line class="st12" x1="550.2" y1="198.9" x2="567" y2="208.9"/>
+          <g>
+            <path class="st75" d="M550.2,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M550.2,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M550.2,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <ellipse class="st189" cx="567" cy="208.8" rx="2.4" ry="2.5"/>
+            <path d="M567,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M567,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st291" d="M567,171.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M567,166.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M567,165.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st100" d="M583.8,181.4c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M583.8,176.9c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M583.8,175.9c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st115" d="M550.2,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M550.2,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M550.2,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st51" d="M583.8,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M583.8,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M583.8,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="432.4" y1="208.8" x2="432.4" y2="228.8"/>
+          <line class="st12" x1="466" y1="208.8" x2="466" y2="228.8"/>
+          <line class="st12" x1="432.3" y1="208.8" x2="449.2" y2="198.8"/>
+          <line class="st12" x1="449.2" y1="198.8" x2="466.1" y2="208.8"/>
+          <line class="st12" x1="449.3" y1="238.9" x2="466.1" y2="228.9"/>
+          <line class="st12" x1="432.3" y1="228.9" x2="449.2" y2="238.9"/>
+          <g>
+            <path class="st239" d="M432.4,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M432.4,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M432.4,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st94" d="M449.2,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M449.2,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M449.2,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st124" d="M449.2,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M449.2,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M449.2,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <ellipse class="st300" cx="466" cy="208.8" rx="2.4" ry="2.5"/>
+            <path d="M466,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M466,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st121" d="M432.4,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M432.4,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M432.4,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st169" d="M466,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M466,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M466,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="466" y1="208.8" x2="466" y2="228.8"/>
+          <line class="st12" x1="499.7" y1="208.8" x2="499.7" y2="228.8"/>
+          <line class="st12" x1="466" y1="208.8" x2="482.8" y2="198.8"/>
+          <line class="st12" x1="482.9" y1="198.8" x2="499.7" y2="208.8"/>
+          <line class="st12" x1="482.9" y1="238.9" x2="499.8" y2="228.9"/>
+          <line class="st12" x1="466" y1="228.9" x2="482.9" y2="238.9"/>
+          <g>
+            <ellipse class="st187" cx="466" cy="208.8" rx="2.4" ry="2.5"/>
+            <path d="M466,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M466,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st138" d="M482.9,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M482.9,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M482.9,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st96" d="M482.9,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M482.9,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M482.9,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st61" d="M499.7,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M499.7,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M499.7,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st313" d="M466,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M466,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M466,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st42" d="M499.7,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M499.7,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M499.7,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="499.7" y1="208.8" x2="499.7" y2="228.8"/>
+          <line class="st12" x1="533.4" y1="208.8" x2="533.4" y2="228.8"/>
+          <line class="st12" x1="499.6" y1="208.8" x2="516.5" y2="198.8"/>
+          <line class="st12" x1="516.6" y1="198.8" x2="533.4" y2="208.8"/>
+          <line class="st12" x1="516.6" y1="238.9" x2="533.4" y2="228.9"/>
+          <line class="st12" x1="499.7" y1="228.9" x2="516.5" y2="238.9"/>
+          <g>
+            <path class="st125" d="M499.7,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M499.7,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M499.7,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st322" d="M516.5,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M516.5,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M516.5,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <ellipse class="st283" cx="516.5" cy="198.8" rx="2.4" ry="2.5"/>
+            <path d="M516.5,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M516.5,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st54" d="M533.4,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M533.4,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M533.4,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st290" d="M499.7,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M499.7,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M499.7,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st215" d="M533.4,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M533.4,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M533.4,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="533.4" y1="208.8" x2="533.4" y2="228.8"/>
+          <line class="st12" x1="567" y1="208.8" x2="567" y2="228.8"/>
+          <line class="st12" x1="533.3" y1="208.8" x2="550.1" y2="198.8"/>
+          <line class="st12" x1="550.2" y1="198.8" x2="567.1" y2="208.8"/>
+          <line class="st12" x1="550.3" y1="238.9" x2="567.1" y2="228.9"/>
+          <line class="st12" x1="533.3" y1="228.9" x2="550.2" y2="238.9"/>
+          <g>
+            <path class="st321" d="M533.4,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M533.4,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M533.4,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st132" d="M550.2,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M550.2,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M550.2,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st244" d="M550.2,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M550.2,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M550.2,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <ellipse class="st34" cx="567" cy="208.8" rx="2.4" ry="2.5"/>
+            <path d="M567,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M567,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st329" d="M533.4,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M533.4,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M533.4,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st150" d="M567,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M567,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M567,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="567" y1="208.8" x2="567" y2="228.8"/>
+          <line class="st12" x1="600.7" y1="208.8" x2="600.7" y2="228.8"/>
+          <line class="st12" x1="567" y1="208.8" x2="583.8" y2="198.8"/>
+          <line class="st12" x1="583.9" y1="198.8" x2="600.7" y2="208.8"/>
+          <line class="st12" x1="583.9" y1="238.9" x2="600.8" y2="228.9"/>
+          <line class="st12" x1="567" y1="228.9" x2="583.8" y2="238.9"/>
+          <g>
+            <ellipse class="st288" cx="567" cy="208.8" rx="2.4" ry="2.5"/>
+            <path d="M567,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M567,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st328" d="M583.8,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M583.8,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M583.8,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st264" d="M583.8,201.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M583.8,196.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M583.8,195.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st92" d="M600.7,211.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M600.7,206.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M600.7,205.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st245" d="M567,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M567,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M567,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st205" d="M600.7,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M600.7,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M600.7,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="449.2" y1="238.8" x2="449.2" y2="258.8"/>
+          <line class="st12" x1="482.9" y1="238.8" x2="482.9" y2="258.8"/>
+          <line class="st12" x1="449.1" y1="238.8" x2="466" y2="228.8"/>
+          <line class="st12" x1="466.1" y1="228.8" x2="482.9" y2="238.8"/>
+          <line class="st12" x1="466.1" y1="268.9" x2="483" y2="258.9"/>
+          <line class="st12" x1="449.2" y1="258.9" x2="466" y2="268.9"/>
+          <g>
+            <path class="st211" d="M449.2,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M449.2,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M449.2,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <ellipse class="st252" cx="466" cy="268.8" rx="2.4" ry="2.5"/>
+            <path d="M466,266.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M466,265.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st306" d="M466,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M466,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M466,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st317" d="M482.9,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M482.9,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M482.9,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st295" d="M449.2,261.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M449.2,256.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M449.2,255.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st279" d="M482.9,261.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M482.9,256.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M482.9,255.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="482.9" y1="238.8" x2="482.9" y2="258.8"/>
+          <line class="st12" x1="516.5" y1="238.8" x2="516.5" y2="258.8"/>
+          <line class="st12" x1="482.8" y1="238.8" x2="499.7" y2="228.8"/>
+          <line class="st12" x1="499.7" y1="228.8" x2="516.6" y2="238.8"/>
+          <line class="st12" x1="499.8" y1="268.9" x2="516.6" y2="258.9"/>
+          <line class="st12" x1="482.8" y1="258.9" x2="499.7" y2="268.9"/>
+          <g>
+            <path class="st269" d="M482.9,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M482.9,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M482.9,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st62" d="M499.7,271.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M499.7,266.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M499.7,265.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st268" d="M499.7,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M499.7,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M499.7,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st297" d="M516.5,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M516.5,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M516.5,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st345" d="M482.9,261.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M482.9,256.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M482.9,255.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <ellipse class="st214" cx="516.5" cy="258.8" rx="2.4" ry="2.5"/>
+            <path d="M516.5,256.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M516.5,255.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="516.5" y1="238.8" x2="516.5" y2="258.8"/>
+          <line class="st12" x1="550.2" y1="238.8" x2="550.2" y2="258.8"/>
+          <line class="st12" x1="516.5" y1="238.8" x2="533.3" y2="228.8"/>
+          <line class="st12" x1="533.4" y1="228.8" x2="550.2" y2="238.8"/>
+          <line class="st12" x1="533.4" y1="268.9" x2="550.3" y2="258.9"/>
+          <line class="st12" x1="516.5" y1="258.9" x2="533.3" y2="268.9"/>
+          <g>
+            <path class="st284" d="M516.5,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M516.5,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M516.5,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st351" d="M533.4,271.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M533.4,266.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M533.4,265.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st153" d="M533.4,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M533.4,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M533.4,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st331" d="M550.2,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M550.2,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M550.2,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <ellipse class="st175" cx="516.5" cy="258.8" rx="2.4" ry="2.5"/>
+            <path d="M516.5,256.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M516.5,255.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st104" d="M550.2,261.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M550.2,256.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M550.2,255.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+        <g>
+          <line class="st12" x1="550.2" y1="238.8" x2="550.2" y2="258.8"/>
+          <line class="st12" x1="583.8" y1="238.8" x2="583.8" y2="258.8"/>
+          <line class="st12" x1="550.1" y1="238.8" x2="567" y2="228.8"/>
+          <line class="st12" x1="567.1" y1="228.8" x2="583.9" y2="238.8"/>
+          <line class="st12" x1="567.1" y1="268.9" x2="583.9" y2="258.9"/>
+          <line class="st12" x1="550.2" y1="258.9" x2="567" y2="268.9"/>
+          <g>
+            <path class="st347" d="M550.2,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M550.2,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M550.2,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <ellipse class="st203" cx="567" cy="268.8" rx="2.4" ry="2.5"/>
+            <path d="M567,266.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M567,265.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st230" d="M567,231.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M567,226.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M567,225.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st238" d="M583.8,241.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M583.8,236.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M583.8,235.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st143" d="M550.2,261.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M550.2,256.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M550.2,255.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+          <g>
+            <path class="st249" d="M583.8,261.3c-1.3,0-2.4-1.1-2.4-2.5s1.1-2.5,2.4-2.5,2.4,1.1,2.4,2.5-1.1,2.5-2.4,2.5Z"/>
+            <path d="M583.8,256.8c1.1,0,1.9.9,1.9,2s-.9,2-1.9,2-1.9-.9-1.9-2,.9-2,1.9-2M583.8,255.8c-1.6,0-2.9,1.3-2.9,3s1.3,3,2.9,3,2.9-1.3,2.9-3-1.3-3-2.9-3h0Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <image width="836" height="687" transform="translate(616.9 168.1) scale(.1)" xlink:href="Fig1without_tag-2.png"/>
+    <text class="st89" transform="translate(407 132.4) scale(1 1)"><tspan x="0" y="0">Materials Database</tspan></text>
+  </g>
+  <text class="st89" transform="translate(1586.7 132.4) scale(1 1)"><tspan x="0" y="0">Materials Database</tspan></text>
+  <g>
+    <line x1="678.3" y1="510.4" x2="776.7" y2="510.4"/>
+    <g>
+      <line class="st18" x1="678.3" y1="510.4" x2="752.6" y2="510.4"/>
+      <path d="M776.7,510.4c-11.4,4.2-25.5,11.4-34.2,19l6.9-19-6.9-19c8.7,7.6,22.8,14.8,34.2,19Z"/>
+    </g>
+  </g>
+  <g class="st201">
+    <g class="st122">
+      <g class="st127">
+        <polygon class="st71" points="1723.7 508.9 1561.9 508.9 1582.1 529.7 1744 529.7 1723.7 508.9 1723.7 508.9 1723.7 508.9"/>
+        <g class="st154">
+          <polygon class="st43" points="1723.7 508.9 1561.9 508.9 1582.1 529.7 1744 529.7 1723.7 508.9 1723.7 508.9 1723.7 508.9"/>
+          <g class="st227">
+            <polygon class="st71" points="1744 529.7 1723.7 508.9 1723.7 384.1 1744 404.9 1744 529.7 1744 529.7 1744 529.7"/>
+            <g class="st308">
+              <polygon class="st43" points="1744 529.7 1723.7 508.9 1723.7 384.1 1744 404.9 1744 529.7 1744 529.7 1744 529.7"/>
+              <g class="st233">
+                <polygon class="st71" points="1723.7 384.1 1561.9 384.1 1561.9 508.9 1723.7 508.9 1723.7 384.1 1723.7 384.1"/>
+                <g class="st73">
+                  <polygon class="st43" points="1723.7 508.9 1561.9 508.9 1561.9 384.1 1723.7 384.1 1723.7 508.9 1723.7 508.9 1723.7 508.9"/>
+                  <g class="st285">
+                    <polygon class="st71" points="1691.2 529.7 1529.3 529.7 1549.6 550.5 1711.4 550.5 1691.2 529.7 1691.2 529.7 1691.2 529.7"/>
+                    <g class="st39">
+                      <polygon class="st43" points="1691.2 529.7 1529.3 529.7 1549.6 550.5 1711.4 550.5 1691.2 529.7 1691.2 529.7 1691.2 529.7"/>
+                      <g class="st81">
+                        <polygon class="st71" points="1711.4 550.5 1691.2 529.7 1691.2 404.9 1711.4 425.7 1711.4 550.5 1711.4 550.5 1711.4 550.5"/>
+                        <g class="st242">
+                          <polygon class="st43" points="1711.4 550.5 1691.2 529.7 1691.2 404.9 1711.4 425.7 1711.4 550.5 1711.4 550.5 1711.4 550.5"/>
+                          <g class="st196">
+                            <polygon class="st71" points="1691.2 404.9 1529.3 404.9 1529.3 529.7 1691.2 529.7 1691.2 404.9 1691.2 404.9"/>
+                            <g class="st36">
+                              <polygon class="st43" points="1691.2 529.7 1529.3 529.7 1529.3 404.9 1691.2 404.9 1691.2 529.7 1691.2 529.7 1691.2 529.7"/>
+                              <g class="st91">
+                                <polygon class="st71" points="1650.7 550.5 1488.9 550.5 1509.1 571.3 1671 571.3 1650.7 550.5 1650.7 550.5 1650.7 550.5"/>
+                                <g class="st93">
+                                  <polygon class="st43" points="1650.7 550.5 1488.9 550.5 1509.1 571.3 1671 571.3 1650.7 550.5 1650.7 550.5 1650.7 550.5"/>
+                                  <g class="st325">
+                                    <polygon class="st71" points="1671 571.3 1650.7 550.5 1650.7 425.7 1671 446.5 1671 571.3 1671 571.3 1671 571.3"/>
+                                    <g class="st140">
+                                      <polygon class="st43" points="1671 571.3 1650.7 550.5 1650.7 425.7 1671 446.5 1671 571.3 1671 571.3 1671 571.3"/>
+                                      <g class="st220">
+                                        <polygon class="st71" points="1650.7 425.7 1488.9 425.7 1488.9 550.5 1650.7 550.5 1650.7 425.7 1650.7 425.7"/>
+                                        <g class="st144">
+                                          <polygon class="st43" points="1650.7 550.5 1488.9 550.5 1488.9 425.7 1650.7 425.7 1650.7 550.5 1650.7 550.5 1650.7 550.5"/>
+                                          <g class="st170">
+                                            <image width="47" height="47" transform="translate(1555.3 473.6) scale(.7 .7)" xlink:href="Fig1without_tag-3.png"/>
+                                            <g class="st296">
+                                              <path class="st67" d="M1561.9,488.1c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                              <path class="st43" d="M1561.9,488.1c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                            </g>
+                                            <g class="st241">
+                                              <image width="47" height="47" transform="translate(1603.1 432.5) scale(.7 .7)" xlink:href="Fig1without_tag-4.png"/>
+                                              <g class="st52">
+                                                <path class="st67" d="M1609.5,446.5c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                                <path class="st43" d="M1609.5,446.5c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                              </g>
+                                              <g class="st253">
+                                                <line class="st47" x1="1579.7" y1="480.3" x2="1613.3" y2="454.8"/>
+                                                <g class="st74">
+                                                  <image width="47" height="47" transform="translate(1523.1 442.8) scale(.7 .7)" xlink:href="Fig1without_tag-5.png"/>
+                                                  <g class="st25">
+                                                    <path class="st67" d="M1529.3,456.9c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                                    <path class="st43" d="M1529.3,456.9c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                                  </g>
+                                                  <g class="st166">
+                                                    <image width="47" height="47" transform="translate(1508.1 492.7) scale(.7 .7)" xlink:href="Fig1without_tag-6.png"/>
+                                                    <g class="st162">
+                                                      <path class="st67" d="M1514.2,507c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                                      <path class="st43" d="M1514.2,507c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                                    </g>
+                                                    <g class="st303">
+                                                      <image width="47" height="47" transform="translate(1603.1 519.8) scale(.7 .7)" xlink:href="Fig1without_tag-7.png"/>
+                                                      <g class="st35">
+                                                        <path class="st67" d="M1609.5,534.5c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                                        <path class="st43" d="M1609.5,534.5c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                                      </g>
+                                                      <g class="st275">
+                                                        <line class="st49" x1="1565.4" y1="480" x2="1548.7" y2="462.8"/>
+                                                        <g class="st193">
+                                                          <line class="st44" x1="1580.7" y1="494.7" x2="1610.3" y2="529.7"/>
+                                                          <polygon class="st46" points="1486.7 573.4 1745.8 573.4 1745.8 381.9 1486.7 381.9 1486.7 573.4 1486.7 573.4"/>
+                                                        </g>
+                                                      </g>
+                                                    </g>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                        </g>
+                                      </g>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path class="st47" d="M1535.2,505.9l26.6-13.9-26.6,13.9Z"/>
+  <line class="st44" x1="1533.6" y1="512.7" x2="1609.5" y2="534.5"/>
+  <line class="st47" x1="1620" y1="457.3" x2="1620" y2="523.7"/>
+  <line class="st47" x1="1609.5" y1="446.5" x2="1550" y2="454.2"/>
+  <line class="st47" x1="1535.2" y1="466.6" x2="1527.2" y2="496.5"/>
+  <g class="st209">
+    <g class="st128">
+      <g class="st135">
+        <polygon class="st71" points="315.3 536.6 153.4 536.6 173.7 557.4 335.5 557.4 315.3 536.6 315.3 536.6 315.3 536.6"/>
+        <g class="st344">
+          <polygon class="st43" points="315.3 536.6 153.4 536.6 173.7 557.4 335.5 557.4 315.3 536.6 315.3 536.6 315.3 536.6"/>
+          <g class="st190">
+            <polygon class="st71" points="335.5 557.4 315.3 536.6 315.3 411.8 335.5 432.6 335.5 557.4 335.5 557.4 335.5 557.4"/>
+            <g class="st192">
+              <polygon class="st43" points="335.5 557.4 315.3 536.6 315.3 411.8 335.5 432.6 335.5 557.4 335.5 557.4 335.5 557.4"/>
+              <g class="st82">
+                <polygon class="st71" points="315.3 411.8 153.4 411.8 153.4 536.6 315.3 536.6 315.3 411.8 315.3 411.8"/>
+                <g class="st167">
+                  <polygon class="st43" points="315.3 536.6 153.4 536.6 153.4 411.8 315.3 411.8 315.3 536.6 315.3 536.6 315.3 536.6"/>
+                  <g class="st302">
+                    <polygon class="st71" points="282.8 557.4 120.9 557.4 141.1 578.2 303 578.2 282.8 557.4 282.8 557.4 282.8 557.4"/>
+                    <g class="st228">
+                      <polygon class="st43" points="282.8 557.4 120.9 557.4 141.1 578.2 303 578.2 282.8 557.4 282.8 557.4 282.8 557.4"/>
+                      <g class="st1">
+                        <polygon class="st71" points="303 578.2 282.8 557.4 282.8 432.6 303 453.4 303 578.2 303 578.2 303 578.2"/>
+                        <g class="st207">
+                          <polygon class="st43" points="303 578.2 282.8 557.4 282.8 432.6 303 453.4 303 578.2 303 578.2 303 578.2"/>
+                          <g class="st273">
+                            <polygon class="st71" points="282.8 432.6 120.9 432.6 120.9 557.4 282.8 557.4 282.8 432.6 282.8 432.6"/>
+                            <g class="st108">
+                              <polygon class="st43" points="282.8 557.4 120.9 557.4 120.9 432.6 282.8 432.6 282.8 557.4 282.8 557.4 282.8 557.4"/>
+                              <g class="st261">
+                                <polygon class="st71" points="242.3 578.2 80.4 578.2 100.7 599 262.5 599 242.3 578.2 242.3 578.2 242.3 578.2"/>
+                                <g class="st178">
+                                  <polygon class="st43" points="242.3 578.2 80.4 578.2 100.7 599 262.5 599 242.3 578.2 242.3 578.2 242.3 578.2"/>
+                                  <g class="st155">
+                                    <polygon class="st71" points="262.5 599 242.3 578.2 242.3 453.4 262.5 474.2 262.5 599 262.5 599 262.5 599"/>
+                                    <g class="st305">
+                                      <polygon class="st43" points="262.5 599 242.3 578.2 242.3 453.4 262.5 474.2 262.5 599 262.5 599 262.5 599"/>
+                                      <g class="st131">
+                                        <polygon class="st71" points="242.3 453.4 80.4 453.4 80.4 578.2 242.3 578.2 242.3 453.4 242.3 453.4"/>
+                                        <g class="st148">
+                                          <polygon class="st43" points="242.3 578.2 80.4 578.2 80.4 453.4 242.3 453.4 242.3 578.2 242.3 578.2 242.3 578.2"/>
+                                          <g class="st76">
+                                            <image width="47" height="47" transform="translate(146.8 501.3) scale(.7 .7)" xlink:href="Fig1without_tag-8.png"/>
+                                            <g class="st348">
+                                              <path class="st67" d="M153.4,515.8c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                              <path class="st43" d="M153.4,515.8c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                            </g>
+                                            <g class="st324">
+                                              <image width="47" height="47" transform="translate(194.7 460.2) scale(.7 .7)" xlink:href="Fig1without_tag-9.png"/>
+                                              <g class="st136">
+                                                <path class="st67" d="M201.1,474.2c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                                <path class="st43" d="M201.1,474.2c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                              </g>
+                                              <g class="st341">
+                                                <line class="st47" x1="171.2" y1="508" x2="204.9" y2="482.5"/>
+                                                <g class="st109">
+                                                  <image width="47" height="47" transform="translate(114.7 470.5) scale(.7 .7)" xlink:href="Fig1without_tag-10.png"/>
+                                                  <g class="st212">
+                                                    <path class="st67" d="M120.9,484.6c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                                    <path class="st43" d="M120.9,484.6c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                                  </g>
+                                                  <g class="st339">
+                                                    <image width="47" height="47" transform="translate(99.7 520.4) scale(.7 .7)" xlink:href="Fig1without_tag-11.png"/>
+                                                    <g class="st349">
+                                                      <path class="st67" d="M105.8,534.7c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                                      <path class="st43" d="M105.8,534.7c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                                    </g>
+                                                    <g class="st126">
+                                                      <image width="47" height="47" transform="translate(194.7 547.6) scale(.7 .7)" xlink:href="Fig1without_tag-12.png"/>
+                                                      <g class="st84">
+                                                        <path class="st67" d="M201.1,562.2c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                                        <path class="st43" d="M201.1,562.2c0-6,4.7-10.8,10.5-10.8s10.5,4.8,10.5,10.8-4.7,10.8-10.5,10.8-10.5-4.8-10.5-10.8h0Z"/>
+                                                      </g>
+                                                      <g class="st251">
+                                                        <line class="st49" x1="157" y1="507.7" x2="140.2" y2="490.5"/>
+                                                        <g class="st271">
+                                                          <line class="st44" x1="172.2" y1="522.4" x2="201.8" y2="557.4"/>
+                                                          <polygon class="st46" points="78.3 601.1 337.4 601.1 337.4 409.6 78.3 409.6 78.3 601.1 78.3 601.1"/>
+                                                        </g>
+                                                      </g>
+                                                    </g>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                        </g>
+                                      </g>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path class="st47" d="M126.8,533.6l26.6-13.9-26.6,13.9Z"/>
+  <line class="st44" x1="125.2" y1="540.4" x2="201.1" y2="562.2"/>
+  <line class="st47" x1="211.6" y1="485" x2="211.6" y2="551.4"/>
+  <line class="st47" x1="201.1" y1="474.2" x2="141.6" y2="481.9"/>
+  <line class="st47" x1="126.8" y1="494.3" x2="118.8" y2="524.2"/>
+</svg>
