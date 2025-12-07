@@ -82,9 +82,9 @@ If you find this code or our method useful, please cite our paper:
 ```bibtex
 @article{DeepDM,
   title = {Variational Machine Learning Model for Electronic Structure Optimization via the Density Matrix},
-  author = {Your Name and Co-authors},
+  author = {Dong, Luqi and Yang, Shuxiang and Wei, Su-huai and Lu, Yunhao},
   journal = {Physical Review Letters},
-  year = {2024},
+  year = {2025},
   doi = {10.1103/wl9w-8g8r},
   url = {[https://doi.org/10.1103/wl9w-8g8r](https://doi.org/10.1103/wl9w-8g8r)}
 }
